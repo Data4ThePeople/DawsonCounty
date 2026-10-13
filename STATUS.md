@@ -40,3 +40,20 @@ None.
   decennial, BLS LAUS and QCEW). The script was re-run from this project and
   reproduced the earlier figures. DATASETS.md is not written yet and comes
   before any chart. Nothing in AffordableHousing was changed.
+- 2026-10-13 Plan approved by Eric, with one addition from him: a chart from
+  public data on cattle prices or head count in the section on Tyson's
+  losses. Built as chart 07: the January 1 herd (USDA) beside the price paid
+  for steers and heifers in dollars per 100 pounds (USDA). Dollars were chosen
+  over the BLS price index because they read more plainly; the index is kept
+  as a cross-check.
+- 2026-10-13 DATASETS.md written before any chart. Fetch scripts 02 to 04
+  replace the first-pull script. Seven charts in charts/. Claude's tie-out
+  (scripts/tieout.py) is clean. New from the pull: Lexington was 5% Hispanic
+  in 1990 (329 of 6,601, from the 1990 census volume); BLS published the
+  county's food manufacturing jobs for one quarter only, 2,909 in January
+  2026 and 217 in March; the herd is the smallest since 1951; the steer and
+  heifer price hit a record $258 in June 2026. City counts before 1970 are
+  not charted because no Census Bureau file was found for them.
+- 2026-10-13 Running: a source check of every fact taken from news reports
+  (research/source-check.md) and the independent tie-out by a fresh agent.
+  The Tyson beef segment chart waits on figures from the filings.

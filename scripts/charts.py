@@ -300,7 +300,7 @@ def cattle():
     ax2.plot(xs, [pr[d] for d in xs], color=YELLOW, lw=2)
     hi = max(xs, key=lambda d: pr[d])
     start = dt.date(2020, 1, 1)
-    for d, dx, dy, ha, sep in ((start, 0, -30, "center", "\n"), (hi, -8, 6, "right", ": "), (xs[-1], 8, -6, "left", "\n")):
+    for d, dx, dy, ha, sep in ((start, 0, -40, "center", "\n"), (hi, -8, 6, "right", ": "), (xs[-1], 8, -6, "left", "\n")):
         ax2.plot([d], [pr[d]], "o", color=YELLOW, ms=5.5)
         ax2.annotate(f"{label(d)}{sep}${pr[d]:.0f}", (d, pr[d]), xytext=(dx, dy), textcoords="offset points", ha=ha,
                      va="center", color=YELLOW, fontsize=10.5, fontweight="bold")
