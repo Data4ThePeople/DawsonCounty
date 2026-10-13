@@ -1,0 +1,97 @@
+geography,variable,what,estimate,margin_of_error_90
+Lexington city,B01003_001,total population,10862,20
+Lexington city,B03003_003,Hispanic or Latino,6956,332
+Lexington city,B05002_001,"population, place-of-birth universe",10862,20
+Lexington city,B05002_013,foreign born,4531,524
+Lexington city,B05001_006,not a U.S. citizen,2057,492
+Lexington city,B02001_003,Black or African American alone,1691,361
+Lexington city,C16001_001,population age 5 and over,9774,82
+Lexington city,C16001_002,speak only English at home,3003,391
+Lexington city,B19013_001,"median household income, dollars",67666,6195
+Lexington city,B17001_001,population with poverty status determined,10767,26
+Lexington city,B17001_002,below the poverty level,1488,507
+Lexington city,B25003_001,occupied housing units,3472,162
+Lexington city,B25003_002,owner-occupied housing units,1992,233
+Lexington city,B25077_001,"median home value, dollars",159100,10400
+Lexington city,B25064_001,"median gross rent, dollars",966,28
+Lexington city,B01002_001,"median age, years",31.3,1.6
+Lexington city,B25001_001,housing units,3594,167
+Lexington city,B25002_003,vacant housing units,122,84
+Lexington city,C24030_001,employed civilians age 16 and over,5162,320
+Lexington city,C24030_007,"employed in manufacturing, men",1318,281
+Lexington city,C24030_034,"employed in manufacturing, women",896,192
+Lexington city,B05006_001,"foreign born, place-of-birth detail universe",4531,524
+Lexington city,B05006_095,foreign born in Africa,829,202
+Lexington city,B05006_139,foreign born in Latin America,3430,458
+Dawson County,B01003_001,total population,24202,-555555555
+Dawson County,B03003_003,Hispanic or Latino,9045,-555555555
+Dawson County,B05002_001,"population, place-of-birth universe",24202,-555555555
+Dawson County,B05002_013,foreign born,5485,495
+Dawson County,B05001_006,not a U.S. citizen,2580,522
+Dawson County,B02001_003,Black or African American alone,1754,362
+Dawson County,C16001_001,population age 5 and over,22300,13
+Dawson County,C16001_002,speak only English at home,14007,381
+Dawson County,B19013_001,"median household income, dollars",69880,4325
+Dawson County,B17001_001,population with poverty status determined,23997,30
+Dawson County,B17001_002,below the poverty level,2596,562
+Dawson County,B25003_001,occupied housing units,9145,180
+Dawson County,B25003_002,owner-occupied housing units,6068,266
+Dawson County,B25077_001,"median home value, dollars",166200,6735
+Dawson County,B25064_001,"median gross rent, dollars",925,29
+Dawson County,B01002_001,"median age, years",35.6,0.4
+Dawson County,B25001_001,housing units,9958,37
+Dawson County,B25002_003,vacant housing units,813,171
+Dawson County,C24030_001,employed civilians age 16 and over,12602,381
+Dawson County,C24030_007,"employed in manufacturing, men",2037,350
+Dawson County,C24030_034,"employed in manufacturing, women",1268,241
+Dawson County,B05006_001,"foreign born, place-of-birth detail universe",5485,495
+Dawson County,B05006_095,foreign born in Africa,829,202
+Dawson County,B05006_139,foreign born in Latin America,4272,431
+Nebraska,B01003_001,total population,1978707,-555555555
+Nebraska,B03003_003,Hispanic or Latino,252023,34
+Nebraska,B05002_001,"population, place-of-birth universe",1978707,-555555555
+Nebraska,B05002_013,foreign born,159084,3474
+Nebraska,B05001_006,not a U.S. citizen,91773,3025
+Nebraska,B02001_003,Black or African American alone,94131,1880
+Nebraska,C16001_001,population age 5 and over,1853332,343
+Nebraska,C16001_002,speak only English at home,1616628,3788
+Nebraska,B19013_001,"median household income, dollars",76475,633
+Nebraska,B17001_001,population with poverty status determined,1930184,752
+Nebraska,B17001_002,below the poverty level,204630,5789
+Nebraska,B25003_001,occupied housing units,797847,2728
+Nebraska,B25003_002,owner-occupied housing units,530878,4181
+Nebraska,B25077_001,"median home value, dollars",238600,1365
+Nebraska,B25064_001,"median gross rent, dollars",1072,8
+Nebraska,B01002_001,"median age, years",37.2,0.2
+Nebraska,B25001_001,housing units,863444,628
+Nebraska,B25002_003,vacant housing units,65597,2361
+Nebraska,C24030_001,employed civilians age 16 and over,1024674,4152
+Nebraska,C24030_007,"employed in manufacturing, men",75193,1942
+Nebraska,C24030_034,"employed in manufacturing, women",31383,1208
+Nebraska,B05006_001,"foreign born, place-of-birth detail universe",159084,3474
+Nebraska,B05006_095,foreign born in Africa,15925,1287
+Nebraska,B05006_139,foreign born in Latin America,85406,2353
+United States,B01003_001,total population,334922499,-555555555
+United States,B03003_003,Hispanic or Latino,64759370,1547
+United States,B05002_001,"population, place-of-birth universe",334922499,-555555555
+United States,B05002_013,foreign born,47349078,143642
+United States,B05001_006,not a U.S. citizen,22674672,144855
+United States,B02001_003,Black or African American alone,40919547,44560
+United States,C16001_001,population age 5 and over,316142548,4130
+United States,C16001_002,speak only English at home,245767039,220970
+United States,B19013_001,"median household income, dollars",80734,166
+United States,B17001_001,population with poverty status determined,327079188,15021
+United States,B17001_002,below the poverty level,40735661,275861
+United States,B25003_001,occupied housing units,129227496,209365
+United States,B25003_002,owner-occupied housing units,84210142,367889
+United States,B25077_001,"median home value, dollars",332700,236
+United States,B25064_001,"median gross rent, dollars",1413,2
+United States,B01002_001,"median age, years",38.9,0.1
+United States,B25001_001,housing units,143775355,10234
+United States,B25002_003,vacant housing units,14547859,200366
+United States,C24030_001,employed civilians age 16 and over,161297155,166767
+United States,C24030_007,"employed in manufacturing, men",11252260,38318
+United States,C24030_034,"employed in manufacturing, women",4687740,19565
+United States,B05006_001,"foreign born, place-of-birth detail universe",47348715,143634
+United States,B05006_095,foreign born in Africa,2762710,24716
+United States,B05006_139,foreign born in Latin America,24012139,108032

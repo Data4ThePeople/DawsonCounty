@@ -3,6 +3,4 @@ __pycache__/
 *.pyc
 .idea/workspace.xml
 .DS_Store
-data/raw/*
-!data/raw/README.md
-data/interim/
+data/raw/
