@@ -419,3 +419,37 @@ complex near the plant.
     quoted by local outlets.
 17. **ir.tyson.com and tysonfoods.com copies of the releases.** Not opened.
     The EDGAR exhibits are the same releases as furnished to the SEC.
+
+## Added October 13, 2026: why workers came, from the 1997 study
+
+Read by Claude from the study text (Gouveia and Stull, JSRI Research Report
+26). Printed page first, PDF page in parentheses. Hiring figures come from tax
+credit forms that new hires filled out, November 1990 to July 1992; the
+authors caution that surname is a rough guide to ethnicity and a Social
+Security number a rough guide to where someone came from. The interview
+figures come from 66 Latino heads of household who had moved to Lexington
+since 1990. They were found through a shelter, social gatherings and
+referrals, not drawn at random, so the percentages describe those 66 people
+and not all newcomers.
+
+| Finding | What the study says | Page |
+|---|---|---|
+| Few local workers to hire | State and local unemployment was "hovering around 3%," so firms moving in "would inevitably confront labor shortages" | 1 (5) |
+| What IBP told the town | It would get "a good portion" of its workers locally, might seek labor elsewhere "as a last resort," and would level off at about 1,300 workers. The plant had some 2,300 by 1997 | 1 (5) |
+| Local supply ran out | "IBP rapidly runs through the local supply of willing workers," given plant size, the small labor pool and high turnover | 4 (8) |
+| How IBP recruited | Word of mouth "enhanced by bonuses offered to current employees for each new hire recruited," print and electronic ads "in packing towns," and "pockets of high unemployment." "Recruiters take to the road as needed" and may cover some first expenses against wages | 4 (8) |
+| Hires came from farther away over time | At startup more than 60% of new hires had a Nebraska Social Security number; by summer 1992, 28% | 5 (9) |
+| Which states | California and Texas were the largest, together about one-quarter of hires over time. "IBP actively recruits in these states." Kansas was under 5% | 5 (9) |
+| Where the 66 were born | Mexico 62%, Guatemala 24%, United States 11% | 9 (13) |
+| Legal status of the 66 | 13% U.S. citizens; 37% legal residents under the 1986 immigration law, most as former farmworkers; 18% refugees; 20% had not adjusted their status | 9 (13) |
+| How they heard of the job | 81% "from friends or relatives" | 10 (14) |
+| What they did before | 77% last worked in the food industry: 27% farmwork, 26% food sales and services, 24% meatpacking | 10 to 11 (14 to 15) |
+| Where they last worked | California 41%, Nebraska 31%, Colorado 8% | 11 (15) |
+| Why they left the last job | It did not pay enough 29%; heard of a better job 16%; the job was seasonal 15.5% | 11 (15) |
+| The authors' reading | Midwestern meatpacking had become "an attractive alternative to construction or farmwork in California or Texas" | 11 (15) |
+| Shelter guests | Haven House guests named 45 states and 9 countries. Nebraska and California 15% each, Texas and Colorado 12% each, Mexico 20%. 51% were in town looking for work | 7 (11) |
+
+Not in the study: any statement from IBP about why it recruited where it did,
+and any wage scale. The claim that native-born workers turned these jobs down
+is the authors' reading of other research, not something they measured in
+Lexington.
