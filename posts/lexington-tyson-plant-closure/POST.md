@@ -18,15 +18,15 @@ dividers: false
 
 # Title
 
-Last week, we released our [Rentals Within Reach](https://www.data4thepeople.com/p/rentals-within-reach) data visualization, which compared the median renter income to the rental stock for all U.S. counties. At the time, we said we would come back to this work several times with stories that we believe must be told. This is critical work. A visualization is just data. But it allows us to find stories that are needles in a haystack – very real stories of U.S. communities that we believe should be told. We must do this work because the story is what makes this stick.
+Last week, we released our [Rentals Within Reach](https://www.data4thepeople.com/p/rentals-within-reach) data visualization, which compared the median renter income to the rental stock for all U.S. counties. At the time, we said we would come back to this work several times with stories that we believe must be told. A visualization is just data. But it allows us to find stories that are needles in a haystack – very real stories of U.S. communities. We must do this work because the story is what makes this stick.
 
 So today, we tell the story of Dawson County, Nebraska.
 
-Why Dawson County? Well, because in the 2020-2024 ACS 5-year census data (the most recent data we could use in Rentals Within Reach) Dawson County had the second-best rental affordability (90% of all units within reach at the median renter income) of all counties in the country with more than 1,000 rental units and reliable income data. The top county? Greenlee County, Arizona, a Freeport-McMoRan copper mining town with loads of subsidized housing.
+Why Dawson County? Because in the 2020-2024 ACS 5-year census data (the most recent data we could use in Rentals Within Reach) Dawson County had the second-best rental affordability (90% of all units within reach at the median renter income) of all counties in the country with more than 1,000 rental units and reliable income data. The top county? Greenlee County, Arizona, a Freeport-McMoRan copper mining town with loads of subsidized housing.
 
 I was specifically looking across the list of most affordable counties because I am enamored with the idea of solutions data journalism. Can we use these tools to find positive outliers, and then study why they are outliers? Maybe some of these counties have come up with ways to incentivize the build out of low-income housing? If we can find examples of this, maybe we can highlight what’s working for other areas to copy.
 
-Anyway, that was the intention behind today’s work. Clearly, Greenlee County couldn’t be copied (they just happen to sit on a large copper deposit) so I moved down the list to Dawson County.
+That was the intention behind today’s work. Greenlee County couldn’t be copied (they just happen to sit on a large copper deposit) so I moved down the list to Dawson County.
 
 When I started to research Dawson County, I was hoping to find some evidence of any policies or incentives for low-income housing. I didn’t find that. But there are two sides to this equation. Higher incomes could make rentals more affordable, and I did find this. In the 2020-2024 ACS data, the median Dawson County renter household made $59,031, considerably higher than the $40,678 in Lincoln County due west. Maybe this was a story of a strong local employer who built roots in this community, boosting wages and standards of living.
 
