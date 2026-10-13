@@ -22,7 +22,7 @@ Last week, we released our [Rentals Within Reach](https://www.data4thepeople.com
 
 So today, we tell the story of Dawson County, Nebraska.
 
-Why Dawson County? Because in the 2020-2024 ACS 5-year census data (the most recent data we could use in Rentals Within Reach) Dawson County had the second-best rental affordability (90% of all units within reach at the median renter income) of all counties in the country with more than 1,000 rental units and reliable income data. The top county? Greenlee County, Arizona, a Freeport-McMoRan copper mining town.
+Why Dawson County? Because in the 2020-2024 ACS 5-year census data (the most recent data we could use in Rentals Within Reach) Dawson County had the second-best rental affordability (90% of all units within reach at the median renter income) of all counties in the country with more than 1,000 rental units and reliable income data. The top county? Greenlee County, Arizona, home to a Freeport-McMoRan copper mine.
 
 I was specifically looking across the list of most affordable counties because I am enamored with the idea of solutions data journalism. Can we use these tools to find positive outliers, and then study why they are outliers? Maybe some of these counties have come up with ways to incentivize the build out of low-income housing? If we can find examples of this, maybe we can highlight what’s working for other areas to copy.
 
