@@ -73,20 +73,30 @@ def population():
 # ---------------------------------------------------------------- 02 Hispanic share
 def hispanic():
     d = [r for r in read_csv("decennial_population.csv") if r["geography"] == "Lexington city" and r["hispanic_or_latino"]]
-    ys = [int(r["year"]) for r in d]
+    ys = [int(r["year"]) + 0.25 for r in d]                 # each census is taken on April 1
     sh = [100 * int(r["hispanic_or_latino"]) / int(r["population"]) for r in d]
     fig, ax = frame(left=0.08)
-    ax.bar([str(y) for y in ys], sh, color=YELLOW, width=0.55)
-    for i, (r, v) in enumerate(zip(d, sh)):
-        ax.text(i, v + 1.5, f"{v:.0f}%", ha="center", color=INK, fontsize=14, fontweight="bold")
-        ax.text(i, v + 6.3, f"{int(r['hispanic_or_latino']):,} of {int(r['population']):,}", ha="center", color=INK_DIM, fontsize=9)
+    opened = 1990 + 10.25 / 12                              # production began November 8, 1990
+    ax.axvline(opened, color=MUTED, lw=1.2, ls=(0, (3, 3)))
+    ax.text(opened + 0.5, 74, "November 1990:\nthe beef plant opens", color=INK_DIM, fontsize=10.5, ha="left", va="top")
+    ax.plot(ys, sh, color=YELLOW, lw=2.6, marker="o", ms=7)
+    for i, (r, x, v) in enumerate(zip(d, ys, sh)):
+        first = i == 0
+        ax.annotate(f"{v:.0f}%", (x, v), xytext=(-10, 4) if first else (0, 26), textcoords="offset points",
+                    ha="right" if first else "center", color=YELLOW, fontsize=15, fontweight="bold")
+        ax.annotate(f"{int(r['hispanic_or_latino']):,} of {int(r['population']):,}", (x, v),
+                    xytext=(-10, -12) if first else (0, 11), textcoords="offset points",
+                    ha="right" if first else "center", color=INK_DIM, fontsize=9)
+    ax.text(ys[0] - 0.6, 15, "April 1990\ncensus", color=INK_DIM, fontsize=9.5, ha="right", va="bottom")
     ax.set_ylim(0, 80)
+    ax.set_xlim(1984, 2023)
+    ax.set_xticks([1990, 2000, 2010, 2020])
     ax.yaxis.set_major_formatter(matplotlib.ticker.PercentFormatter(decimals=0))
     ax.tick_params(axis="x", labelsize=12)
-    titleblock(fig, "Lexington went from 5% Hispanic to 65% in thirty years",
-               "Share of Lexington residents who reported Hispanic or Latino origin in each census.\n"
-               "The beef plant opened in November 1990, seven months after the 1990 census.")
-    credit(fig, "Source: U.S. Census Bureau, decennial census.")
+    titleblock(fig, f"Lexington was {sh[0]:.0f}% Hispanic before the beef plant opened and {sh[1]:.0f}% ten years later",
+               "Share of Lexington residents who reported Hispanic or Latino origin in each census. The last count before the plant\n"
+               "opened was April 1990. IBP opened the plant that November; Tyson bought IBP in 2001.")
+    credit(fig, "Source: U.S. Census Bureau, decennial census. The opening date is from Nebraska news reports.")
     save(fig, "02-hispanic-share.png")
 
 

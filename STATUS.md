@@ -85,3 +85,10 @@ None.
   independent agent because they came after it: chart 08 and the reworded
   titles. Claude's own tie-out is clean on the final build.
 
+- 2026-10-13 Chart 02 redrawn at Eric's request as a line on a time axis with
+  a marker at November 1990, when the plant opened, so the share before and
+  after can be read. Eric wants to offer the 1997 study's findings as a data
+  point, not proof, in the debate over whether immigrants take jobs
+  native-born workers do not want, tying back to his earlier reporting. What
+  the study does and does not show on that is at the end of
+  research/source-check.md.
