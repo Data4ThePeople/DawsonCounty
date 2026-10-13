@@ -57,3 +57,31 @@ None.
 - 2026-10-13 Running: a source check of every fact taken from news reports
   (research/source-check.md) and the independent tie-out by a fresh agent.
   The Tyson beef segment chart waits on figures from the filings.
+- 2026-10-13 Source check back (research/source-check.md). Eleven facts in
+  the first pull corrected, among them: Tyson's November 21, 2025 release
+  gives one reason only, to "right size its beef business", and no reason for
+  choosing Lexington; the January 20 date is from the WARN notice; turnover of
+  250% was over the first 21 months, not a yearly average; school enrollment
+  rose 44% from 1990 to 1995, not 50%; the 1,200 to 1,300 workers was the 1988
+  projection; the combine plant closed in 1985; the county was organized in
+  1871 and the town platted in 1873. Not confirmed: the terms of the city tax
+  deal, the plant's hourly pay, and several dates that rest on one secondary
+  source. No buyer for the plant reported through October 13, 2026.
+- 2026-10-13 Tyson beef segment figures typed from the year-end releases on
+  SEC EDGAR and checked by script against the saved releases
+  (scripts/05_fetch_tyson.py). Chart 08 built. Tyson changed its segment
+  reporting in February 2026, so its fiscal 2026 guidance ($250 to $500
+  million in February, $625 to $775 million by September) is not on the same
+  basis as the $1.135 billion fiscal 2025 loss.
+- 2026-10-13 Independent tie-out by a fresh agent back: every number on
+  charts 01 to 07 reproduced from its own pulls, zero numeric differences.
+  Fixed from its findings: the Nebraska and U.S. lines on chart 03 now break
+  at October 2025; chart 07 no longer says "on record" without "before
+  inflation", measures the price rise to the closure month (86%) and was
+  renamed; chart 01's title states the census change without tying it to the
+  plant; chart 06 says the shares are approximate; three DATASETS.md
+  statements corrected (the 1990 city count was later revised to 6,600; the
+  2020 estimates base; the retained-worker count). Not covered by the
+  independent agent because they came after it: chart 08 and the reworded
+  titles. Claude's own tie-out is clean on the final build.
+

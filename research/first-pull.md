@@ -5,8 +5,10 @@ project before this project existed. Carried over here unchanged, apart from
 the last section. Census and BLS figures were pulled directly
 (`scripts/01_first_pull.py`, raw output in `data/raw/`) and reproduced from
 this project the same day. Everything else is from the linked reporting, read
-as a summary and not yet checked against the page. Nothing here has been
-through a tie-out.
+as a summary and not yet checked against the page. Nothing in this file has
+been corrected since. **Read `research/source-check.md` before using any fact
+below:** it marks each one confirmed, corrected or unconfirmed, and eleven
+were corrected.
 
 Eric's outline for the post: the history of the town; the metrics on the town
 (population and so on); when Tyson came and what it meant to the town; why

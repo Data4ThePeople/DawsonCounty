@@ -62,11 +62,11 @@ def population():
     ax.set_xlim(1936, 2024)
     ax.set_xticks(range(1940, 2021, 10))
     thousands(ax)
-    titleblock(fig, "Lexington grew by half in the decade after the beef plant opened",
+    titleblock(fig, f"Lexington's population grew {pct(ci[1990], ci[2000]):.0f}% between the 1990 and 2000 censuses",
                f"Residents counted in each census. Lexington went from {ci[1990]:,} in 1990 to {ci[2000]:,} in 2000, "
                f"up {pct(ci[1990], ci[2000]):.0f}%.\nDawson County grew {pct(co[1990], co[2000]):.0f}%. "
                "Both have changed little since.")
-    credit(fig, "Source: U.S. Census Bureau, decennial census. City counts are available from 1970.")
+    credit(fig, "Source: U.S. Census Bureau, decennial census. City counts are shown from 1970. Plant dates are from Nebraska news reports.")
     save(fig, "01-population.png")
 
 
@@ -128,7 +128,7 @@ def unemployment():
     for geo, c in (("United States", GRAY), ("Nebraska", BLUE)):
         s = {dt.date(int(r["year"]), int(r["month"]), 1): float(r["unemployment_rate"]) for r in cmp if r["geography"] == geo}
         xs = [d for d in x if d in s]
-        ax.plot(xs, [s[d] for d in xs], color=c, lw=1.8, ls=(0, (4, 2)) if c == GRAY else "-")
+        ax.plot(x, [s.get(d, float("nan")) for d in x], color=c, lw=1.8, ls=(0, (4, 2)) if c == GRAY else "-")
         ax.text(xs[-1] + dt.timedelta(days=12), s[xs[-1]], f"{s[xs[-1]]:.1f}%", color=c, fontsize=9.5, va="center")
         if geo == "United States":
             us_first = s[xs[0]]
@@ -259,9 +259,9 @@ def before():
             s.set_visible(False)
         ax.set_title(ttl, color=INK, fontsize=12, fontweight="bold", loc="left", pad=10)
     titleblock(fig, "Before the closure, Lexington looked little like the rest of Nebraska",
-               "Share of residents, 2020 to 2024. The manufacturing share is of employed residents age 16 and over,\n"
-               "in any manufacturing job, not only at the beef plant.")
-    credit(fig, "Source: U.S. Census Bureau, American Community Survey 2020-2024 (5-year). Survey estimates; Lexington's carry wide margins of error.")
+               "Approximate shares from a survey, 2020 to 2024. Language is for residents age 5 and over. Manufacturing is the share\n"
+               "of employed residents age 16 and over in any manufacturing job, not only at the beef plant.")
+    credit(fig, "Source: U.S. Census Bureau, American Community Survey 2020-2024 (5-year). Lexington's shares are within about 4 to 6 points either way.")
     save(fig, "06-before-the-closure.png")
 
 
@@ -270,9 +270,9 @@ def cattle():
     inv = {int(r["year"]): int(r["head"]) / 1e6 for r in read_csv("cattle_inventory_jan1.csv") if int(r["year"]) >= 1950}
     pr = {dt.date(int(r["year"]), int(r["month"]), 1): float(r["dollars_per_cwt"])
           for r in read_csv("steer_heifer_price_received_monthly.csv") if int(r["year"]) >= 2000}
-    fig = plt.figure(figsize=(W, 6.6))
-    ax1 = fig.add_axes([0.07, 0.13, 0.40, 0.56])
-    ax2 = fig.add_axes([0.56, 0.13, 0.39, 0.56])
+    fig = plt.figure(figsize=(W, 6.8))
+    ax1 = fig.add_axes([0.07, 0.13, 0.40, 0.52])
+    ax2 = fig.add_axes([0.56, 0.13, 0.39, 0.52])
     for ax in (ax1, ax2):
         ax.grid(axis="y")
         ax.set_axisbelow(True)
@@ -300,7 +300,8 @@ def cattle():
     ax2.plot(xs, [pr[d] for d in xs], color=YELLOW, lw=2)
     hi = max(xs, key=lambda d: pr[d])
     start = dt.date(2020, 1, 1)
-    for d, dx, dy, ha, sep in ((start, 0, -40, "center", "\n"), (hi, -8, 6, "right", ": "), (xs[-1], 8, -6, "left", "\n")):
+    close = dt.date(2026, 1, 1)          # the plant closed January 20, 2026
+    for d, dx, dy, ha, sep in ((start, 0, -40, "center", "\n"), (hi, -8, 6, "right", ": "), (close, 10, -8, "left", "\n")):
         ax2.plot([d], [pr[d]], "o", color=YELLOW, ms=5.5)
         ax2.annotate(f"{label(d)}{sep}${pr[d]:.0f}", (d, pr[d]), xytext=(dx, dy), textcoords="offset points", ha=ha,
                      va="center", color=YELLOW, fontsize=10.5, fontweight="bold")
@@ -315,16 +316,51 @@ def cattle():
              for r in read_csv("steer_heifer_price_received_monthly.csv")}
     if max(allpr, key=lambda d: allpr[d]) != hi:
         sys.exit("the price peak is not the record; rewrite the title")
-    titleblock(fig, f"Smallest U.S. cattle herd since {since}, highest cattle prices on record",
-               f"The herd on January 1, {last} was {-pct(inv[peak], inv[last]):.0f}% below its {peak} peak. The average price of the cattle "
-               f"beef plants buy went\nfrom ${pr[start]:.0f} per 100 pounds in {label(start)} to ${pr[hi]:.0f} in {label(hi)}, up {pct(pr[start], pr[hi]):.0f}%. Prices are not adjusted for inflation.",
+    titleblock(fig, f"The U.S. cattle herd is the smallest since {since}, and cattle prices rose {pct(pr[start], pr[close]):.0f}% in six years",
+               f"The herd on January 1, {last} was {-pct(inv[peak], inv[last]):.0f}% below its {peak} peak. The average price of the kind of "
+               f"cattle beef plants buy went\nfrom ${pr[start]:.0f} per 100 pounds in {label(start)} to ${pr[close]:.0f} in {label(close)}, the month the Lexington plant closed, "
+               f"and ${pr[hi]:.0f} in {label(hi)}.\nThat is the highest in the series, which starts in 1953, before adjusting for inflation.",
                y=0.97)
     credit(fig, "Source: USDA National Agricultural Statistics Service, Cattle report and Agricultural Prices. Survey estimates.")
-    save(fig, "07-cattle-squeeze.png")
+    save(fig, "07-cattle-herd-and-prices.png")
+
+
+# ---------------------------------------------------------------- 08 Tyson beef segment
+def tyson():
+    import csv
+    from common import ROOT
+    rows = list(csv.DictReader(open(ROOT / "data" / "manual" / "tyson_beef_segment.csv")))
+    ys = [r["fiscal_year"] for r in rows]
+    v = [int(r["operating_income_musd"]) for r in rows]
+    adj = {r["fiscal_year"]: int(r["adjusted_operating_income_musd"]) for r in rows}
+    fig = plt.figure(figsize=(W, H))
+    ax = fig.add_axes([0.10, 0.13, 0.84, 0.64])
+    ax.barh(range(len(ys)), v, color=[MAGENTA if x < 0 else BLUE for x in v], height=0.62)
+    ax.axvline(0, color=INK_DIM, lw=1)
+    for i, x in enumerate(v):
+        txt = f"-${-x:,} million" if x < 0 else f"${x:,} million"
+        ax.text(x + (-45 if x < 0 else 45), i, txt, va="center", ha="right" if x < 0 else "left",
+                color=MAGENTA if x < 0 else BLUE, fontsize=11, fontweight="bold")
+    ax.set_yticks(range(len(ys)))
+    ax.set_yticklabels(ys, fontsize=12, color=INK)
+    ax.set_ylim(len(ys) - 0.4, -0.6)
+    ax.set_xlim(-2100, 4300)
+    ax.set_xticks([])
+    ax.tick_params(length=0)
+    for sp in ax.spines.values():
+        sp.set_visible(False)
+    ax.text(-2100, -0.75, "Loss", color=MAGENTA, fontsize=12, fontweight="bold", ha="left")
+    ax.text(4300, -0.75, "Profit", color=BLUE, fontsize=12, fontweight="bold", ha="right")
+    titleblock(fig, f"Tyson's beef business went from a ${max(v) / 1000:.1f} billion profit in {ys[v.index(max(v))]} to a ${-v[-1] / 1000:.1f} billion loss in {ys[-1]}",
+               f"Beef segment operating income as Tyson reported it, by fiscal year (ending around September 30). The fiscal {ys[-1]} loss\n"
+               f"includes legal costs and write-offs; without them Tyson puts it at ${-adj[ys[-1]]:,} million. Covers every Tyson beef plant.")
+    credit(fig, "Source: Tyson Foods year-end earnings releases filed with the SEC, on the basis in use before February 2026.\n"
+                "Fiscal 2020 is the figure as restated a year later.")
+    save(fig, "08-tyson-beef-segment.png")
 
 
 CHARTSET = {"population": population, "hispanic": hispanic, "unemployment": unemployment, "employed": employed,
-            "jobs": jobs, "before": before, "cattle": cattle}
+            "jobs": jobs, "before": before, "cattle": cattle, "tyson": tyson}
 
 if __name__ == "__main__":
     use_house_style()

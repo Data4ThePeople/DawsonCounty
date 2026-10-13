@@ -49,7 +49,10 @@ accuracy measures, and larger in percentage terms for small groups.
 **Missing data.** People the census could not reach are filled in from
 neighbors' records ("imputation"). Rates for this city were not pulled.
 
-**Revisions.** Counts are not revised, apart from rare corrections.
+**Revisions.** Counts are rarely revised. One case here: the 1990 volumes
+print Lexington at 6,601, and the 2000 volume (PHC-3-29) prints the 1990
+count as a revised 6,600. We use 6,601, as first published. The difference
+does not change any rounded figure.
 
 **Units and rounding.** Persons, unrounded.
 
@@ -126,9 +129,10 @@ split the county figure using housing unit changes. The latest date, July 1,
 2025, is before the closure, so these files do not show its effect. The first
 estimate that could is July 1, 2026, due in 2027.
 
-**Known quirks.** The 2020 base for the city (10,684 on July 1, 2020) is
-higher than the April 2020 count (10,348) because the Bureau blends the count
-with other evidence. Do not chart the two series as one line.
+**Known quirks.** The city's July 1, 2020 estimate (10,684; the April 1 base
+is 10,682) is higher than the April 2020 count (10,348). We do not know why;
+the county's base is within 5 of its count, so a boundary update for the city
+is possible. Do not chart the two series as one line.
 
 **Uncertainty.** No margin of error is published.
 
@@ -222,8 +226,9 @@ quarterly wages in dollars, average weekly wage in dollars.
 
 **Known quirks.** A month's job count is everyone on a payroll in the pay
 period that includes the 12th. The plant ran until January 20, 2026, so
-January still shows it at close to full strength, and about 300 workers kept
-on after the closure show up in February and March. "Manufacturing" is every
+January still shows it at close to full strength. News reports said nearly
+300 workers were kept on after the closure; QCEW shows fewer in all of food
+manufacturing, 247 in February and 217 in March. "Manufacturing" is every
 manufacturer in the county, not Tyson alone. Wages include bonuses and
 severance in the quarter they are paid, which can lift the average weekly
 wage in a closing quarter. Wages exclude benefits.
@@ -278,7 +283,9 @@ average, not what Tyson paid. It tracks the cost of the packer's main input;
 it says nothing by itself about the price packers got for beef, so it is one
 side of the packer's margin. A second measure, the BLS Producer Price Index
 for slaughter cattle (`WPU0131`, 1982 = 100), is pulled as a cross-check and
-is not charted.
+is not charted. The June 2026 price is the highest in the series only before
+inflation: adjusted with the CPI, prices in the 1970s were higher (found by
+the independent tie-out).
 
 **Uncertainty.** NASS publishes survey reliability measures in the Cattle
 report. We did not pull those tables, so we do not state an error range.

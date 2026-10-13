@@ -183,6 +183,8 @@ check("record steer and heifer price is June 2026", hi[0] * 100 + hi[1], 202606)
 check("price January 2020, $ per 100 pounds", pr[(2020, 1)], 125)
 check("price June 2026", pr[hi], 258)
 check("price August 2026", pr[(2026, 8)], 234)
+check("price January 2026, the month the plant closed", pr[(2026, 1)], 233)
+check("price change January 2020 to January 2026, %", round(100 * (pr[(2026, 1)] / pr[(2020, 1)] - 1)), 86)
 check("price change January 2020 to June 2026, %", round(100 * (pr[hi] / pr[(2020, 1)] - 1)), 106)
 ppi = {(int(r["year"]), int(r["month"])): float(r["index_1982_100"]) for r in read_csv("ppi_slaughter_cattle.csv")}
 note("cross-check, BLS PPI slaughter cattle, January 2020 to June 2026, %", round(100 * (ppi[(2026, 6)] / ppi[(2020, 1)] - 1)))
@@ -190,6 +192,8 @@ note("cross-check, BLS PPI slaughter cattle, January 2020 to June 2026, %", roun
 # ---- Tyson beef segment, typed in from filings
 tyson = PROC.parent / "manual" / "tyson_beef_segment.csv"
 if tyson.exists():
+    import importlib
+    check("Tyson figures not found on the beef rows of the SEC release cited", importlib.import_module("05_fetch_tyson").verify(), 0)
     for r in csv.DictReader(open(tyson)):
         note(f"Tyson beef FY{r['fiscal_year']} (typed from {r['source']})",
              f"sales {r['sales_musd']}, operating income {r['operating_income_musd']}, adjusted {r['adjusted_operating_income_musd']}")
