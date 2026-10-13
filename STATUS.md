@@ -92,3 +92,10 @@ None.
   native-born workers do not want, tying back to his earlier reporting. What
   the study does and does not show on that is at the end of
   research/source-check.md.
+- 2026-10-13 Earlier post to tie back to, given by Eric: "The Men Who
+  Vanished" (August 30, 2026),
+  https://www.data4thepeople.com/p/the-men-who-vanished. Read through the
+  fetch tool as a summary, not word for word. Its claim is that native-born
+  men did not take the jobs foreign-born men left, not that they did not want
+  them; it calls the question "a live argument, not settled science." Link it
+  at 2e.
