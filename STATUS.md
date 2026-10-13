@@ -99,3 +99,7 @@ None.
   men did not take the jobs foreign-born men left, not that they did not want
   them; it calls the question "a live argument, not settled science." Link it
   at 2e.
+- 2026-10-13 For step 2a, from Eric: link the 1997 Gouveia and Stull study
+  directly in the body of the post, since much of the data comes from it.
+  Link: https://jsri.msu.edu/upload/research-reports/rr26.pdf. Backup record
+  if that file moves: https://eric.ed.gov/?id=ED414105.
