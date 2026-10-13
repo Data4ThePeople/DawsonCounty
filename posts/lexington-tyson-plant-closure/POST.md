@@ -73,8 +73,6 @@ The same study shows how rough the start was, for the workers and for the town.
 - **There was not enough housing.** The town's plan called for 334 new units. By 1992 its consultants said the need was twice that.
 - **The schools filled up.** Enrollment went from 1,558 students in May 1990 to more than 2,238 by the end of the 1995 school year, an increase of 44%.
 
-Not every longtime resident stayed. "We did have some white flight when IBP moved in," John Fagot, then Lexington's mayor, told the [Center for American Progress](https://www.americanprogress.org/article/proactive-and-patient/) in 2018.
-
 ## The town that came out the other side
 
 Enough of the newcomers stayed that the town grew. The chart below shows the population of Lexington and Dawson County in each census, with the two plant dates marked.

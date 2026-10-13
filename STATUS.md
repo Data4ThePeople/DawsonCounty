@@ -114,3 +114,4 @@ None.
 - 2026-10-13 Step 2a opened. Slug: lexington-tyson-plant-closure. posts/lexington-tyson-plant-closure/POST.md created from the template; waiting for Eric's draft. Charts stay in charts/ until the draft sets their order.
 - 2026-10-13 Step 2a: Eric's intro placed verbatim in POST.md. At his direction the body after it is Claude's, built on the six-step sequence, with all eight charts placed and numbered in order of appearance, the 1997 study linked at its first use, the tie-back to "The Men Who Vanished" framed as a data point, and a limits section. The intro's figures were checked against the Rentals Within Reach data. Proposed edits to Eric's prose sent as a numbered list; none applied. Title, subtitle and closing are Eric's to write.
 - 2026-10-13 Step 2a: Eric accepted all 8 proposed edits and gave the Rentals Within Reach link; applied to POST.md.
+- 2026-10-13 Step 2a: the mayor's quote cut at Eric's direction; it could not be confirmed on the page.
