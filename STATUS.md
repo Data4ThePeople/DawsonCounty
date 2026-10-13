@@ -5,8 +5,8 @@ Process: ~/.claude/d4tp-process/PROCESS.md
 
 ## Current
 
-Post: none yet (slug to be set at 2a)
-Step: 1 confirmed; 2a not opened yet
+Post: lexington-tyson-plant-closure
+Step: 2a
 Since: 2026-10-13
 
 ## Steps
@@ -111,3 +111,4 @@ None.
   deal, the plant's hourly pay, several dates that rest on one secondary
   source, and where the workers went after the closure. Next: 2a, once Eric
   gives the slug and his draft.
+- 2026-10-13 Step 2a opened. Slug: lexington-tyson-plant-closure. posts/lexington-tyson-plant-closure/POST.md created from the template; waiting for Eric's draft. Charts stay in charts/ until the draft sets their order.
