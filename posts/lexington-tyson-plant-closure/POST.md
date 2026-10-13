@@ -40,7 +40,7 @@ This is this county’s story. But it’s more than that. It’s a story of Amer
 
 Lexington is the county seat of Dawson County and its largest town. It began as Plum Creek, a stage and Pony Express stop on the south side of the Platte River. The Union Pacific Railroad came through in 1866, and the settlement moved north of the river to meet it. The county was organized in 1871, the town was laid out in 1873, and in 1889 residents voted to rename it Lexington.
 
-For most of the next century it was a small farm town. Then, in 1975, Sperry New Holland opened a factory there to build combines. By 1981 it employed about 900 people, [according to Nebraska Public Media](https://nebraskapublicmedia.org/en/news/news-articles/as-tyson-closure-looms-lexington-prepares-for-a-future-without-the-citys-largest-employer/).
+In 1975, Sperry New Holland opened a factory there to build combines. By 1981 it employed about 900 people, [according to Nebraska Public Media](https://nebraskapublicmedia.org/en/news/news-articles/as-tyson-closure-looms-lexington-prepares-for-a-future-without-the-citys-largest-employer/).
 
 The factory closed in 1985, during the farm crisis. The Nebraska State Historical Society [puts the loss](https://web.archive.org/web/20250917025100/https://history.nebraska.gov/how-a-lexington-meatpacking-plant-changed-nebraska/) at 940 jobs and a payroll of more than $16 million. Lexington had 7,040 residents in the 1980 census and 6,601 in 1990, a drop of 6%. Dawson County lost 11% of its people over the same ten years.
 
@@ -60,13 +60,13 @@ Here is what they found.
 - **The company recruited out of state.** It paid bonuses to workers who brought in a new hire, ran ads in other meatpacking towns, and sent recruiters on the road. California and Texas together supplied about one-quarter of hires over time, and the study says "IBP actively recruits in these states."
 - **Who was hired changed.** Going by surnames on the forms, non-Hispanic workers were 81% of new hires at startup and 37% by mid-1992. Hispanic workers went from 18% to 57%.
 
-The 66 interviews fill in who the newcomers were. Of those household heads, 62% were born in Mexico, 24% in Guatemala and 11% in the United States. For 41% of them, the last job had been in California. More than three-quarters had last worked in the food industry, in farm fields, kitchens or other packing plants. Asked why they left that job, the most common answer was that it did not pay enough.
+The 66 interviews fill in who the newcomers were. Of those household heads, 62% were born in Mexico, 24% in Guatemala and 11% in the United States. For 41% of them, the last job had been in California. More than three-quarters had last worked in the food industry, in farm fields, kitchens or other packing plants. Asked why they left that job, the most common answer was that it did not pay enough. And 81% said they heard about the job in Lexington from a friend or a relative.
 
-And 81% said they heard about the job in Lexington from a friend or a relative.
+We reported a national version of this in August, in [The Men Who Vanished](https://www.data4thepeople.com/p/the-men-who-vanished): as foreign-born men left the U.S. workforce in 2025 and 2026, native-born men did not take the jobs they left. Lexington is one more case, not proof. The study measured who was hired, not who turned the work down.
 
 ## Hard first years
 
-The same study shows how rough the start was, for the workers and for the town.
+The same study shows how rough the start was.
 
 - **Few people stayed.** Over the plant's first 21 months, turnover totaled 250% against a workforce of about 2,000. In less than two years IBP hired and let go a number of workers equal to 76% of Lexington's 1990 population. Most of them quit. Of the 1,200 who left in the first nine months, 12% were fired.
 - **People arrived with nowhere to stay.** A shelter called Haven House opened in January 1991. Through July 1992, 834 adults and 93 children stayed there at least one night.
@@ -80,16 +80,16 @@ Enough of the newcomers stayed that the town grew. The chart below shows the pop
 ![Line chart titled "Lexington's population grew 52% between the 1990 and 2000 censuses." Dawson County had 17,890 residents in 1940, 22,304 in 1980, 19,940 in 1990, 24,365 in 2000 and 24,111 in 2020. Lexington had 5,654 in 1970, 7,040 in 1980, 6,601 in 1990, 10,011 in 2000, 10,230 in 2010 and 10,348 in 2020. Dashed lines mark 1985, when the combine plant closed, and 1990, when the beef plant opened.](images/01-population.png)
 *Lexington went from 6,601 residents in 1990 to 10,011 in 2000. Dawson County grew 22% over the same ten years. Source: U.S. Census Bureau.*
 
-Who lived there changed even more. The next chart shows the share of Lexington residents who reported Hispanic or Latino origin in each census, with a line where the plant opened.
+The next chart shows the share of Lexington residents who reported Hispanic or Latino origin in each census, with a line where the plant opened.
 
 ![Line chart titled "Lexington was 5% Hispanic before the beef plant opened and 51% ten years later." The share of Lexington residents of Hispanic or Latino origin was 5% in the April 1990 census (329 of 6,601), 51% in 2000 (5,121 of 10,011), 60% in 2010 (6,183 of 10,230) and 65% in 2020 (6,752 of 10,348). A dashed line marks November 1990, when the beef plant opened.](images/02-hispanic-share.png)
 *The 1990 census was taken seven months before the plant opened. Source: U.S. Census Bureau.*
 
 Newcomers began to buy homes early. The 1997 study counted Hispanic surnames among Dawson County home buyers: 23 of 500 sales in 1992 and 50 of 518 in 1993.
 
-Tyson Foods bought IBP in 2001 and ran the plant from then on. New groups kept arriving. In the 2020-2024 census survey, about 830 Lexington residents were born in Africa, give or take 200.
+Tyson Foods bought IBP in 2001. In the 2020-2024 census survey, about 830 Lexington residents were born in Africa, give or take 200.
 
-By then Lexington looked little like the rest of Nebraska. The chart below compares the town with the county, the state and the country on three measures from that survey.
+The chart below compares the town with the county, the state and the country on three measures from that survey.
 
 ![Three sets of horizontal bars titled "Before the closure, Lexington looked little like the rest of Nebraska." Born outside the U.S.: Lexington 42%, Dawson County 23%, Nebraska 8%, United States 14%. Speak a language other than English at home: Lexington 69%, Dawson County 37%, Nebraska 13%, United States 22%. Workers employed in manufacturing: Lexington 43%, Dawson County 26%, Nebraska 10%, United States 10%.](images/03-before-the-closure.png)
 *Survey estimates for 2020 to 2024. Lexington's shares are within about 4 to 6 points either way. Source: U.S. Census Bureau, American Community Survey.*
@@ -97,14 +97,6 @@ By then Lexington looked little like the rest of Nebraska. The chart below compa
 About 57% of Lexington households owned their home. The median renter household in Dawson County made $59,031, the number that put the county near the top of our map. School officials told the Associated Press that nearly half of Lexington's students had a parent who worked at the plant.
 
 The plant's 3,212 positions were equal to about 27% of all the jobs located in Dawson County in March 2025. That share is our own calculation, from the layoff notice Tyson filed and a federal count of jobs.
-
-## One more data point in a long debate
-
-In August we published [The Men Who Vanished](https://www.data4thepeople.com/p/the-men-who-vanished). It found that as foreign-born men left the U.S. workforce in 2025 and 2026, native-born men did not take the jobs they left.
-
-Lexington in the early 1990s is the same question run the other way. A plant opened with thousands of jobs. Local workers did not fill them, and workers from California, Texas, Mexico and Guatemala did.
-
-This is not proof of anything. The study did not ask local residents why they did not take or keep the jobs. With unemployment near 3% in a county of about 20,000 people, there were too few local workers for a plant that size no matter who wanted the work. And the hiring figures come from surnames on forms, which is a rough measure. We offer it as one more data point in a debate that economists have not settled.
 
 ## Why Tyson closed the plant
 
@@ -117,37 +109,37 @@ Tyson's own financial reports show a beef business that had been losing money. T
 ![Horizontal bar chart titled "Tyson's beef business went from a $3.2 billion profit in 2021 to a $1.1 billion loss in 2025." Beef segment operating income by fiscal year: $1,107 million in 2019, $1,580 million in 2020, $3,240 million in 2021, $2,502 million in 2022, a loss of $91 million in 2023, a loss of $381 million in 2024 and a loss of $1,135 million in 2025. Losses are drawn as bars to the left.](images/04-tyson-beef-segment.png)
 *The fiscal 2025 loss includes legal costs and write-offs. Without them, Tyson puts the loss at $426 million. The figures cover every Tyson beef plant, not Lexington alone. Source: Tyson Foods earnings releases filed with the SEC.*
 
-Tyson later tied the closure to the supply of cattle. In an August 2026 release it cited "one of the most historic cattle shortages the country has ever experienced." Public data from the U.S. Department of Agriculture shows the same picture. The chart below has the size of the U.S. cattle herd on the left and the price paid for cattle on the right.
+Tyson later tied the closure to the supply of cattle. In an August 2026 release it cited "one of the most historic cattle shortages the country has ever experienced." The chart below, from U.S. Department of Agriculture data, has the size of the U.S. cattle herd on the left and the price paid for cattle on the right.
 
 ![Two line charts titled "The U.S. cattle herd is the smallest since 1951, and cattle prices rose 86% in six years." Left: all cattle and calves in the U.S. on January 1 peaked at 132.0 million in 1975 and stood at 86.2 million in 2026. Right: the price paid to producers for steers and heifers was $125 per 100 pounds in January 2020, $233 in January 2026 and $258 in June 2026. Tyson's fiscal years 2024 and 2025 are shaded.](images/05-cattle-herd-and-prices.png)
 *Prices are not adjusted for inflation. Source: USDA National Agricultural Statistics Service.*
 
 A beef plant buys cattle and sells beef. This chart shows only the buying side, so it does not explain Tyson's losses. It does show that the kind of cattle beef plants buy cost 86% more in January 2026, the month the plant closed, than six years earlier.
 
-Lexington was not the last. In August 2026 Tyson said it would also end operations at its beef plant in Joslin, Illinois.
+In August 2026 Tyson said it would also end operations at its beef plant in Joslin, Illinois.
 
 ## What happened next
 
 The layoff notice covered 3,212 positions, with work ending on or around January 20, 2026. Tyson kept about 290 people on to wind the plant down. The last of them left on July 24.
 
-The clearest measure of what followed is a federal count of jobs by where the job is located. The chart below shows it for Dawson County since 2014.
+The chart below shows a federal count of the jobs located in Dawson County since 2014.
 
 ![Line chart titled "Dawson County had 3,997 manufacturing jobs in March 2025 and 677 a year later." All jobs located in Dawson County went from 11,868 in March 2025 to 8,121 in March 2026. Private jobs went from 9,444 to 5,673. Manufacturing jobs went from 3,997 to 677. All three lines are nearly flat from 2014 through 2025 and then drop sharply.](images/06-jobs-in-county.png)
 *Manufacturing jobs fell 83% in a year and private jobs fell 40%. Manufacturing here is every manufacturer in the county. Source: U.S. Bureau of Labor Statistics, Quarterly Census of Employment and Wages.*
 
-The unemployment rate tells the same story from the side of the people who live there. The next chart shows the county's rate by month beside Nebraska's and the country's.
+The next chart shows the unemployment rate among people who live in the county, beside Nebraska's and the country's.
 
 ![Line chart titled "Dawson County's unemployment rate went from 3.4% to 16.9% in one month." The county's rate tracked Nebraska's near 3% through January 2026, jumped to 16.9% in February, peaked at 20.1% in March and was 16.4% in August 2026. Nebraska was 2.8% and the United States 4.3% in August 2026. October 2025 is blank for all three.](images/07-unemployment-rate.png)
 *County figures are estimates from a model, not a direct count. October 2025 was not published. Source: U.S. Bureau of Labor Statistics.*
 
-The rate has come down from its peak, but that is not all good news. Someone who moves away or stops looking for work no longer counts as unemployed. The last chart shows the number of county residents with a job, and the number working or looking for work.
+The rate has come down from its peak, but someone who moves away or stops looking for work no longer counts as unemployed. The last chart shows the number of county residents with a job, and the number working or looking for work.
 
 ![Line chart titled "Dawson County has 25% fewer employed residents than a year ago." Employed residents of Dawson County fell from 13,292 in August 2025 to 9,941 in August 2026. The labor force fell from 13,658 to 11,897. Both lines drop sharply after the plant closed on January 20, 2026.](images/08-employed-residents.png)
 *The labor force, people working or looking for work, fell 13% over the same year. Estimates from a model; August 2026 is preliminary. Source: U.S. Bureau of Labor Statistics.*
 
 There are 3,351 fewer Dawson County residents with a job than a year ago.
 
-The schools show a smaller change so far. Lexington's enrollment fell from 3,172 to 2,877 this fall, a drop of 9.3%, [according to Nebraska Public Media](https://nebraskapublicmedia.org/en/news/news-articles/a-resilient-community-lexington-school-enrollment-dropped-less-than-feared-after-tyson-closure/). The district had expected to lose between 150 and 750 students.
+Lexington's school enrollment fell from 3,172 to 2,877 this fall, a drop of 9.3%, [according to Nebraska Public Media](https://nebraskapublicmedia.org/en/news/news-articles/a-resilient-community-lexington-school-enrollment-dropped-less-than-feared-after-tyson-closure/). The district had expected to lose between 150 and 750 students.
 
 In April the city council authorized a deal to take over Tyson's wastewater plant and nearby farmland. As of October 1, the plant itself still sat empty.
 
