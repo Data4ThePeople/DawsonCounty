@@ -5,15 +5,15 @@ Process: ~/.claude/d4tp-process/PROCESS.md
 
 ## Current
 
-Post: none yet
-Step: 1
+Post: none yet (slug to be set at 2a)
+Step: 1 confirmed; 2a not opened yet
 Since: 2026-10-13
 
 ## Steps
 
 | Step | What | Confirmed | Notes |
 |---|---|---|---|
-| 1  | Exploration and analysis | | |
+| 1  | Exploration and analysis | 2026-10-13 | Eight charts; Claude's tie-out clean; independent tie-out by a fresh agent done on charts 01 to 07; source check of reported facts done |
 | 2a | Draft with brackets resolved | | |
 | 2b | Eric's edit, Claude's look-over | | |
 | 2c | Slice markup | | |
@@ -103,3 +103,11 @@ None.
   directly in the body of the post, since much of the data comes from it.
   Link: https://jsri.msu.edu/upload/research-reports/rr26.pdf. Backup record
   if that file moves: https://eric.ed.gov/?id=ED414105.
+- 2026-10-13 Step 1 confirmed by Eric. Not covered by the independent agent,
+  because they came after it: chart 08 (Tyson beef segment, checked by script
+  against the SEC releases), the reworded titles on charts 01, 06 and 07, and
+  the redrawn chart 02. Claude's own tie-out is clean on the final build.
+  Still open and carried into the post's limits: the terms of the city tax
+  deal, the plant's hourly pay, several dates that rest on one secondary
+  source, and where the workers went after the closure. Next: 2a, once Eric
+  gives the slug and his draft.
