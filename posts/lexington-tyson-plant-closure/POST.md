@@ -120,7 +120,7 @@ In August 2026 Tyson said it would also end operations at its beef plant in Josl
 
 ## What happened next
 
-The layoff notice covered 3,212 positions, with work ending on or around January 20, 2026. Tyson kept about 290 people on to wind the plant down. The last of them left on July 24.
+The layoff notice covered 3,212 positions, with work ending on or around January 20, 2026. Tyson [kept about 290 people on](https://dol.nebraska.gov/webdocs/getfile/7eb5ba08-b9ba-461f-8559-5a162f9fa4dd) to wind the plant down. The last of them left on July 24.
 
 The chart below shows a federal count of the jobs located in Dawson County since 2014.
 

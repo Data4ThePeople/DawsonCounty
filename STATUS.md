@@ -128,3 +128,4 @@ None.
 - 2026-10-14 Step 2a: closing given the header "How we found this story" (Eric's choice).
 - 2026-10-14 Step 2a confirmed by Eric. Next: 2b, Eric's edit and Claude's look-over.
 - 2026-10-14 WARN notice linked in the post at Eric's request: Tyson's November 21, 2025 letter on the Nebraska Department of Labor WARN list, https://dol.nebraska.gov/webdocs/getfile/a16e7080-54f1-43f4-bbd7-f9011a5f3453 (3,212 positions, "on or around January 20, 2026", read directly this time). The same list has a January 21, 2026 Tyson extension notice for 294 positions.
+- 2026-10-14 Tyson's extension notice (letter dated January 20, 2026, listed January 21) read and linked at Eric's request: https://dol.nebraska.gov/webdocs/getfile/7eb5ba08-b9ba-461f-8559-5a162f9fa4dd. The letter says "approximately 292" kept on; its table totals 294; the last group of 127 was to stay through July 24, 2026. Supports "about 290" and the July 24 date in the post.
