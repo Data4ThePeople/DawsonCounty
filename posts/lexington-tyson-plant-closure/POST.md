@@ -155,15 +155,15 @@ In April the city council authorized a deal to take over Tyson's wastewater plan
 
 That is the story of Dawson County.
 
-Rather than belabor the obvious – how:
+Rather than belabor the obvious, here are two points in brief:
 
-1. This county is a case study on the reality of economic development in rural America. We can provide all the tax incentives and grants we want to employers to come to rural counties (JobsOhio – pay attention here) but if the goal is to employ more people, immigration may be the answer.
+1. This county is a case study on the reality of economic development in rural America. We can provide all the tax incentives and grants we want to employers to come to rural counties ([JobsOhio](https://www.data4thepeople.com/p/jobsohio-post) – pay attention here) but if the goal is to employ more people, immigration may be the answer.
 2. How much concentration risk there may be underneath “healthy” rural economic data, especially in counties with a lot of manufacturing jobs.
 
-Instead of hammering these two points, I want to close this with another call out to the 1997 Lourdes Gouveia study that was the basis for most of the information in the story you just read.
+Instead of hammering these two points, I want to close this with another call out to the 1997 study by Lourdes Gouveia and Donald Stull that was the basis for much of the history in the story you just read.
 
-Without this amazing work, there is no connective tissue to this story. And I just got lucky. I had no idea this work existed. Yesterday morning, I had no clue that the Dawson County story was a story about immigration. And try googling for what we know from the Rentals in Reach visualization – searches on higher incomes, better rental affordability, and the Tyson meatpacking plant will not unearth Gouveia’s research.
+Without this amazing work, there is no connective tissue to this story. And I just got lucky. I had no idea this work existed. Yesterday morning, I had no clue that the Dawson County story was a story about immigration. And try googling for what we know from the Rentals Within Reach visualization – searches on higher incomes, better rental affordability, and the Tyson meatpacking plant did not turn up Gouveia’s research.
 
-But our agentic AI process found it. Not only did it find it, but it also stressed that this was the lynchpin in telling the Dawson County story. I read the report and just sat thinking – how much brilliant research is out there on our communities that can now be unearthed, and in this case, completed?
+But our agentic AI process found it. Not only did it find it, but it also stressed that this was the linchpin in telling the Dawson County story. I read the report and just sat thinking – how much brilliant research is out there on our communities that can now be unearthed, and in this case, completed?
 
-So, for the journalists out there that have a stigma against AI. Sit with this question. Is AI really the enemy of journalism? Or maybe, could you be using it wrong?
+So, to the journalists out there who are wary of AI: sit with this question. Is AI really the enemy of journalism? Or maybe, could you be using it wrong?

@@ -121,3 +121,4 @@ None.
 - 2026-10-13 Step 2a: "with loads of subsidized housing" removed from the Greenlee County sentence at Eric's direction.
 - 2026-10-13 Step 2a: Greenlee County now described as "home to a Freeport-McMoRan copper mine" (Eric accepted).
 - 2026-10-14 Step 2a: Eric's closing placed verbatim in POST.md. Proposed edits sent as a numbered list; none applied. Still waiting on title and subtitle.
+- 2026-10-14 Step 2a: Eric accepted closing edits 1 to 7; applied. JobsOhio aside kept at his direction and linked to his earlier post, https://www.data4thepeople.com/p/jobsohio-post. Waiting on title and subtitle.
