@@ -1,6 +1,6 @@
 ---
 title: The Data Led Us to Lexington
-subtitle: Our rental affordability map pointed us to a county in Nebraska. A 1997 study had already told the first part of its story. We picked it back up the year the beef plant closed.
+subtitle: Our rental affordability map pointed us to a county in Nebraska. A 1997 study had already told the first part of its story. We brought it up to date the year the beef plant closed.
 slug: lexington-tyson-plant-closure
 date: 2026-10-14
 section: Data 4 Thought
