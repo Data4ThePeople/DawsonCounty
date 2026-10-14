@@ -137,7 +137,7 @@ The rate has come down from its peak, but someone who moves away or stops lookin
 ![Line chart titled "Dawson County has 25% fewer employed residents than a year ago." Employed residents of Dawson County fell from 13,292 in August 2025 to 9,941 in August 2026. The labor force fell from 13,658 to 11,897. Both lines drop sharply after the plant closed on January 20, 2026.](images/08-employed-residents.png)
 *The labor force, people working or looking for work, fell 13% over the same year. Estimates from a model; August 2026 is preliminary. Source: U.S. Bureau of Labor Statistics.*
 
-There are 3,351 fewer Dawson County residents with a job than a year ago.
+There are 3,351 fewer Dawson County residents with a job than a year ago. The county's labor force, the residents who are working or looking for work, fell by 1,761 people, or 13%. We have written often about [labor force decline](https://www.data4thepeople.com/p/five-takeaways-labor-force-decline) as a vital measure of a community's economic health.
 
 Lexington's school enrollment fell from 3,172 to 2,877 this fall, a drop of 9.3%, [according to Nebraska Public Media](https://nebraskapublicmedia.org/en/news/news-articles/a-resilient-community-lexington-school-enrollment-dropped-less-than-feared-after-tyson-closure/). The district had expected to lose between 150 and 750 students.
 
