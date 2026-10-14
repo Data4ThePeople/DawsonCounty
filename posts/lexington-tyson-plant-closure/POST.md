@@ -135,7 +135,7 @@ The next chart shows the unemployment rate among people who live in the county, 
 The rate has come down from its peak, but someone who moves away or stops looking for work no longer counts as unemployed. The last chart shows the number of county residents with a job, and the number working or looking for work.
 
 ![Line chart titled "Dawson County has 25% fewer employed residents than a year ago." Employed residents of Dawson County fell from 13,292 in August 2025 to 9,941 in August 2026. The labor force fell from 13,658 to 11,897. Both lines drop sharply after the plant closed on January 20, 2026.](images/08-employed-residents.png)
-*The labor force, people working or looking for work, fell 13% over the same year. Estimates from a model; August 2026 is preliminary. Source: U.S. Bureau of Labor Statistics.*
+*Estimates from a model; August 2026 is preliminary. Source: U.S. Bureau of Labor Statistics.*
 
 There are 3,351 fewer Dawson County residents with a job than a year ago. The county's labor force, the residents who are working or looking for work, fell by 1,761 people, or 13%. We have written often about [labor force decline](https://www.data4thepeople.com/p/five-takeaways-labor-force-decline) as a vital measure of a community's economic health.
 
@@ -149,14 +149,14 @@ That is the story of Dawson County.
 
 Rather than belabor the obvious, here are two points in brief:
 
-1. This county is a case study on the reality of economic development in rural America. We can provide all the tax incentives and grants we want to employers to come to rural counties ([JobsOhio](https://www.data4thepeople.com/p/jobsohio-post) – pay attention here) but if the goal is to employ more people, immigration may be the answer.
+1. This county is a case study on the reality of economic development in rural America. We can provide all the tax incentives and grants we want to employers to come to rural counties ([JobsOhio](https://www.data4thepeople.com/p/jobsohio-post) – pay attention here) but if the goal is to employ more people, we must study these counties to understand if there are even enough working age bodies to support this new employer.
 2. How much concentration risk there may be underneath “healthy” rural economic data, especially in counties with a lot of manufacturing jobs.
 
 Instead of hammering these two points, I want to close this with another call out to the 1997 study by Lourdes Gouveia and Donald Stull that was the basis for much of the history in the story you just read.
 
 Without this amazing work, there is no connective tissue to this story. And I just got lucky. I had no idea this work existed. Yesterday morning, I had no clue that the Dawson County story was a story about immigration. And try googling for what we know from the Rentals Within Reach visualization – searches on higher incomes, better rental affordability, and the Tyson meatpacking plant did not turn up Gouveia’s research.
 
-But our agentic AI process found it. Not only did it find it, but it also stressed that this was the linchpin in telling the Dawson County story. I read the report and just sat thinking – how much brilliant research is out there on our communities that can now be unearthed, and in this case, completed?
+But our agentic AI process found it. Not only did it find it, but it also stressed that this was the linchpin in telling the Dawson County story. I read the report and just sat thinking – how much brilliant research is out there on our communities that can now be unearthed, and in this case, continued?
 
 So, to the journalists out there who are wary of AI: sit with this question. Is AI really the enemy of journalism? Or maybe, could you be using it wrong?
 
