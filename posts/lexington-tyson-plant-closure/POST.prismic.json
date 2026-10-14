@@ -1143,14 +1143,12 @@
       }
     },
     {
-      "slice_type": "spacer",
+      "slice_type": "divider_dots",
       "slice_label": null,
       "variation": "default",
       "version": "initial",
       "items": [],
-      "primary": {
-        "spacer_value": "20px"
-      }
+      "primary": {}
     },
     {
       "slice_type": "paragarph_text",
@@ -1246,6 +1244,44 @@
                 "start": 0,
                 "end": 37,
                 "type": "strong"
+              }
+            ],
+            "direction": "ltr"
+          }
+        ]
+      }
+    },
+    {
+      "slice_type": "spacer",
+      "slice_label": null,
+      "variation": "default",
+      "version": "initial",
+      "items": [],
+      "primary": {
+        "spacer_value": "20px"
+      }
+    },
+    {
+      "slice_type": "highlited_page_blurb",
+      "slice_label": null,
+      "variation": "noTitle",
+      "version": "initial",
+      "items": [],
+      "primary": {
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "The data, code and charts behind this story are on GitHub.",
+            "spans": [
+              {
+                "start": 51,
+                "end": 57,
+                "type": "hyperlink",
+                "data": {
+                  "link_type": "Web",
+                  "url": "https://github.com/Data4ThePeople/DawsonCounty",
+                  "target": "_blank"
+                }
               }
             ],
             "direction": "ltr"

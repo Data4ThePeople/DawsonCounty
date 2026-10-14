@@ -163,6 +163,8 @@ But our agentic AI process found it. Not only did it find it, but it also stress
 
 So, to the journalists out there who are wary of AI: sit with this question. Is AI really the enemy of journalism? Or maybe, could you be using it wrong?
 
+::: divider
+
 ## What this does not tell you
 
 - **Where the workers went.** No public data yet shows who left Dawson County or where they went. The first Census Bureau population estimate that could show it is due in 2027.
@@ -172,3 +174,9 @@ So, to the journalists out there who are wary of AI: sit with this question. Is 
 - **What plant workers were paid.** Tyson has not published a wage figure. The closest public measure is average pay for manufacturing jobs in Dawson County, most of which were at the plant: about $54,200 a year in 2024, or about $1,040 a week, according to the U.S. Bureau of Labor Statistics. That average includes every manufacturer in the county and every kind of worker, from the line to management. The renter income in our map covers all renters in the county.
 - **The exact unemployment rate.** County rates are built from a model and get revised each spring. After a shock this large, the revision could be big.
 - **Workers who lived outside the county.** They are in the count of jobs lost, but not in the county's unemployment figures.
+
+::: spacer 20px
+
+::: blurb
+The data, code and charts behind this story are on [GitHub](https://github.com/Data4ThePeople/DawsonCounty).
+:::
