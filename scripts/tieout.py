@@ -50,6 +50,14 @@ check("employed residents Aug 2026", e1, 9941)
 check("employed residents change, %", round(100 * (e1 - e0) / e0, 1), -25.2)
 check("labor force change, %", round(100 * (f1 - f0) / f0, 1), -12.9)
 note("employed residents lost, Aug 2025 to Aug 2026", e0 - e1)
+# chart 09, January 2016 onward
+pre = {k: float(r["unemployment_rate"]) for k, r in L.items() if (2016, 1) <= k < (2026, 1) and r["unemployment_rate"]}
+check("county peak, 2016 to 2025, month (yyyymm)", (lambda k: k[0] * 100 + k[1])(max(pre, key=pre.get)), 202005)
+check("county peak, 2016 to 2025, rate", max(pre.values()), 5.2)
+US = {(int(r["year"]), int(r["month"])): float(r["unemployment_rate"]) for r in read_csv("unemployment_rate_compare.csv")
+      if r["geography"] == "United States" and r["unemployment_rate"] and (int(r["year"]), int(r["month"])) >= (2016, 1)}
+check("U.S. peak since 2016, month (yyyymm)", (lambda k: k[0] * 100 + k[1])(max(US, key=US.get)), 202004)
+check("U.S. peak since 2016, rate", max(US.values()), 14.4)
 note("blank months", [k for k, r in L.items() if r["unemployment_rate"] == ""])
 
 # ---- QCEW, raw CSV against processed

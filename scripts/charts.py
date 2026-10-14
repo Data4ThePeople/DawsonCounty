@@ -369,8 +369,94 @@ def tyson():
     save(fig, "08-tyson-beef-segment.png")
 
 
+# ---------------------------------------------------------------- 09 unemployment rate since 2016 (social)
+LONG_START = (2016, 1)
+
+
+def long_series():
+    """County, Nebraska and U.S. monthly rates from LONG_START, as plotted on chart 09 and its animation."""
+    rows, x = laus(LONG_START)
+    cmp = read_csv("unemployment_rate_compare.csv")
+    out = []
+    for geo, c, dashed in (("United States", GRAY, True), ("Nebraska", BLUE, False)):
+        s = {dt.date(int(r["year"]), int(r["month"]), 1): float(r["unemployment_rate"]) for r in cmp if r["geography"] == geo}
+        out.append((geo, c, dashed, [s.get(d, float("nan")) for d in x]))
+    out.append(("Dawson County", YELLOW, False, col(rows, "unemployment_rate")))
+    return rows, x, out
+
+
+def long_marks(x, ss):
+    """The labeled points: the county's pandemic peak, the U.S. pandemic peak, and the closure months."""
+    county = dict((d, v) for d, v in zip(x, ss[-1][3]) if v == v)
+    us = dict((d, v) for d, v in zip(x, ss[0][3]) if v == v)
+    pre = {d: v for d, v in county.items() if d < dt.date(2026, 1, 1)}
+    cpk = max(pre, key=pre.get)
+    upk = max(us, key=us.get)
+    post = {d: v for d, v in county.items() if d >= dt.date(2026, 1, 1)}
+    pk = max(post, key=post.get)
+    last = max(county)
+    return dict(county=county, us=us, cpk=cpk, upk=upk, jan=dt.date(2026, 1, 1), feb=dt.date(2026, 2, 1), pk=pk, last=last)
+
+
+def long_axes(ax, x):
+    ax.set_ylim(0, 24)
+    ax.set_xlim(x[0] - dt.timedelta(days=90), x[-1] + dt.timedelta(days=150))
+    ticks = [d for d in x if d.month == 1]
+    ax.set_xticks(ticks)
+    ax.set_xticklabels([str(d.year) for d in ticks])
+    ax.yaxis.set_major_formatter(matplotlib.ticker.PercentFormatter(decimals=0))
+    ax.text(dt.date(2016, 1, 1), 11.5, "Dawson County", color=YELLOW, fontsize=12, fontweight="bold")
+    ax.text(dt.date(2017, 8, 1), 11.5, "Nebraska", color=BLUE, fontsize=12, fontweight="bold")
+    ax.text(dt.date(2018, 10, 1), 11.5, "United States", color=GRAY, fontsize=12, fontweight="bold")
+
+
+def long_title(m):
+    c = m["county"]
+    return (f"Dawson County's unemployment rate peaked at {c[m['cpk']]:.1f}% in {m['cpk'].year} and {c[m['pk']]:.1f}% in {m['pk'].year}",
+            f"Unemployment rate by month, not seasonally adjusted, {label(dt.date(*LONG_START, 1))} to {label(m['last'])}. "
+            f"The U.S. rate peaked at {m['us'][m['upk']]:.1f}% in {label(m['upk'])}.")
+
+
+def long_credit(rows, x):
+    prelim = [label(d) for r, d in zip(rows, x) if r["flag"]]
+    return ("Source: U.S. Bureau of Labor Statistics, Local Area Unemployment Statistics and Current Population Survey. County figures are\n"
+            f"model-based estimates. October 2025 was not published. {', '.join(prelim)} is preliminary.")
+
+
+def long_point_labels(ax, m, final=True):
+    """Labels on real monthly values only."""
+    c, us = m["county"], m["us"]
+    pts = [(m["cpk"], c[m["cpk"]], YELLOW, -36, 20, "right"), (m["upk"], us[m["upk"]], GRAY, 8, 6, "left"),
+           (m["jan"], c[m["jan"]], YELLOW, -6, -20, "right"), (m["feb"], c[m["feb"]], YELLOW, -8, 0, "right"),
+           (m["pk"], c[m["pk"]], YELLOW, 8, 6, "left"), (m["last"], c[m["last"]], YELLOW, 8, 0, "left")]
+    out = []
+    for d, v, color, dx, dy, ha in pts:
+        out.append(ax.plot([d], [v], "o", color=color, ms=5.5)[0])
+        arrow = dict(arrowstyle="-", color=color, lw=0.8, shrinkA=2, shrinkB=4) if abs(dx) > 20 else None
+        out.append(ax.annotate(f"{v:.1f}%", (d, v), xytext=(dx, dy), textcoords="offset points", ha=ha, va="center",
+                               color=color, fontsize=11, fontweight="bold", arrowprops=arrow))
+    return out
+
+
+def unemployment_long():
+    rows, x, ss = long_series()
+    m = long_marks(x, ss)
+    fig, ax = frame()
+    for geo, c, dashed, y in ss:
+        ax.plot(x, y, color=c, lw=2.6 if geo == "Dawson County" else 1.8, ls=(0, (4, 2)) if dashed else "-")
+    for geo, c, _, y in ss[:2]:
+        d = max(d for d, v in zip(x, y) if v == v)
+        ax.text(d + dt.timedelta(days=40), dict(zip(x, y))[d], f"{dict(zip(x, y))[d]:.1f}%", color=c, fontsize=9.5, va="center")
+    long_point_labels(ax, m)
+    long_axes(ax, x)
+    closure_line(ax, 23.2)
+    titleblock(fig, *long_title(m))
+    credit(fig, long_credit(rows, x))
+    save(fig, "09-unemployment-rate-since-2016.png")
+
+
 CHARTSET = {"population": population, "hispanic": hispanic, "unemployment": unemployment, "employed": employed,
-            "jobs": jobs, "before": before, "cattle": cattle, "tyson": tyson}
+            "jobs": jobs, "before": before, "cattle": cattle, "tyson": tyson, "unemployment_long": unemployment_long}
 
 if __name__ == "__main__":
     use_house_style()
