@@ -1,0 +1,65 @@
+{
+  "images/01-population.png": {
+    "id": "zrGQMOGYh1PU_AvC",
+    "width": 1600,
+    "height": 992,
+    "url": "https://images.prismic.io/data4thepeople/zrGQMOGYh1PU_AvC_01-population.png?auto=format,compress",
+    "stamp": "137605:1791925560"
+  },
+  "images/02-hispanic-share.png": {
+    "id": "KXf-CRae2CgEJg7V",
+    "width": 1600,
+    "height": 992,
+    "url": "https://images.prismic.io/data4thepeople/KXf-CRae2CgEJg7V_02-hispanic-share.png?auto=format,compress",
+    "stamp": "134972:1791925560"
+  },
+  "images/03-before-the-closure.png": {
+    "id": "dW45TkF0_pmlImfv",
+    "width": 1600,
+    "height": 896,
+    "url": "https://images.prismic.io/data4thepeople/dW45TkF0_pmlImfv_03-before-the-closure.png?auto=format,compress",
+    "stamp": "115345:1791925560"
+  },
+  "images/04-tyson-beef-segment.png": {
+    "id": "zrzHuLkb3QWs6g-8",
+    "width": 1600,
+    "height": 992,
+    "url": "https://images.prismic.io/data4thepeople/zrzHuLkb3QWs6g-8_04-tyson-beef-segment.png?auto=format,compress",
+    "stamp": "119615:1791925560"
+  },
+  "images/05-cattle-herd-and-prices.png": {
+    "id": "qaPNev5Ah1WeAMCS",
+    "width": 1600,
+    "height": 1088,
+    "url": "https://images.prismic.io/data4thepeople/qaPNev5Ah1WeAMCS_05-cattle-herd-and-prices.png?auto=format,compress",
+    "stamp": "188589:1791925560"
+  },
+  "images/06-jobs-in-county.png": {
+    "id": "XjF5up99ssGBFUI1",
+    "width": 1600,
+    "height": 992,
+    "url": "https://images.prismic.io/data4thepeople/XjF5up99ssGBFUI1_06-jobs-in-county.png?auto=format,compress",
+    "stamp": "156960:1791925560"
+  },
+  "images/07-unemployment-rate.png": {
+    "id": "UQ1igjxrzsEP8i55",
+    "width": 1600,
+    "height": 992,
+    "url": "https://images.prismic.io/data4thepeople/UQ1igjxrzsEP8i55_07-unemployment-rate.png?auto=format,compress",
+    "stamp": "141237:1791925560"
+  },
+  "images/08-employed-residents.png": {
+    "id": "t5Xgpd9PCBijZlTB",
+    "width": 1600,
+    "height": 992,
+    "url": "https://images.prismic.io/data4thepeople/t5Xgpd9PCBijZlTB_08-employed-residents.png?auto=format,compress",
+    "stamp": "151230:1791925560"
+  },
+  "images/lexington-tyson-plant-closure-hero-1680x1080.png": {
+    "id": "cmFEqJwz8tsCNfG6",
+    "width": 1680,
+    "height": 1080,
+    "url": "https://images.prismic.io/data4thepeople/cmFEqJwz8tsCNfG6_lexington-tyson-plant-closure-hero-1680x1080.png?auto=format,compress",
+    "stamp": "1778660:1791972946"
+  }
+}

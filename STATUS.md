@@ -143,3 +143,4 @@ None.
 - 2026-10-14 Step 2d confirmed by Eric. Step 2e opened. Eric gave no target searches given the 6:45 a.m. publish; Claude drafted meta title, description and eight keywords into the front matter for his review. Schema: Article, Data 4 Thought, house conventions. Earlier posts already linked in the body: Rentals Within Reach, The Men Who Vanished, JobsOhio, labor force decline.
 - 2026-10-14 Step 2e confirmed by Eric. Step 2f opened.
 - 2026-10-14 Step 2f: dry run clean (45 slices, 8 charts and the hero to upload, creates blog_post uid lexington-tyson-plant-closure). The live push was blocked by Claude Code's auto-mode permission check; Eric to run it with the ! prefix.
+- 2026-10-14 Step 2f: Eric ran the push. All 8 charts and the hero uploaded; draft as9W-RcAADEAEMN8 created in the Migration Release (tags and author empty).
