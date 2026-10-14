@@ -24,7 +24,7 @@ So today, we tell the story of Dawson County, Nebraska.
 
 Why Dawson County? Because in the 2020-2024 ACS 5-year census data (the most recent data we could use in Rentals Within Reach) Dawson County had the second-best rental affordability (90% of all units within reach at the median renter income) of all counties in the country with more than 1,000 rental units and reliable income data. The top county? Greenlee County, Arizona, home to a Freeport-McMoRan copper mine.
 
-I was specifically looking across the list of most affordable counties because I am enamored with the idea of solutions data journalism. Can we use these tools to find positive outliers, and then study why they are outliers? Maybe some of these counties have come up with ways to incentivize the build out of low-income housing? If we can find examples of this, maybe we can highlight what’s working for other areas to copy.
+I was specifically looking across the list of most affordable counties because I am enamored with the idea of solutions data journalism. Can we use data tools to find favorable outliers, and then study why they are outliers? Maybe some of these counties have come up with ways to incentivize the build out of low-income housing? If we can find examples of this, maybe we can highlight what’s working for other areas to copy.
 
 That was the intention behind today’s work. Greenlee County couldn’t be copied (they just happen to sit on a large copper deposit) so I moved down the list to Dawson County.
 
@@ -96,7 +96,7 @@ The chart below compares the town with the county, the state and the country on 
 
 About 57% of Lexington households owned their home. The median renter household in Dawson County made $59,031, the number that put the county near the top of our map. School officials told the Associated Press that nearly half of Lexington's students had a parent who worked at the plant.
 
-The plant's 3,212 positions were equal to about 27% of all the jobs located in Dawson County in March 2025. That share is our own calculation, from the layoff notice Tyson filed and a federal count of jobs.
+The plant's 3,212 positions were equal to about 27% of all the jobs located in Dawson County in March 2025. That share is our own calculation, from the [layoff notice Tyson filed](https://dol.nebraska.gov/webdocs/getfile/a16e7080-54f1-43f4-bbd7-f9011a5f3453) and a federal count of jobs.
 
 ## Why Tyson closed the plant
 

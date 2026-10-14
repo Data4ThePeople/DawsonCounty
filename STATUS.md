@@ -127,3 +127,4 @@ None.
 - 2026-10-14 Step 2a: at Eric's direction the closing now comes before "What this does not tell you", so the limits section ends the post.
 - 2026-10-14 Step 2a: closing given the header "How we found this story" (Eric's choice).
 - 2026-10-14 Step 2a confirmed by Eric. Next: 2b, Eric's edit and Claude's look-over.
+- 2026-10-14 WARN notice linked in the post at Eric's request: Tyson's November 21, 2025 letter on the Nebraska Department of Labor WARN list, https://dol.nebraska.gov/webdocs/getfile/a16e7080-54f1-43f4-bbd7-f9011a5f3453 (3,212 positions, "on or around January 20, 2026", read directly this time). The same list has a January 21, 2026 Tyson extension notice for 294 positions.
