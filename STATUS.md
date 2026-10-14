@@ -15,7 +15,7 @@ Since: 2026-10-14
 |---|---|---|---|
 | 1  | Exploration and analysis | 2026-10-13 | Eight charts; Claude's tie-out clean; independent tie-out by a fresh agent done on charts 01 to 07; source check of reported facts done |
 | 2a | Draft with brackets resolved | 2026-10-14 | Eric's intro and closing; body built on the six-step sequence at his direction; title, subtitle and closing header set |
-| 2b | Eric's edit, Claude's look-over | | |
+| 2b | Eric's edit, Claude's look-over | 2026-10-14 | Look-over items 1 to 9 accepted; publish time 6:45 a.m. EDT |
 | 2c | Slice markup | | |
 | 2d | Hero 1680x1080 + alt text | | |
 | 2e | SEO | | |
@@ -134,3 +134,4 @@ None.
 - 2026-10-14 At Eric's direction the pay limit now gives the closest public measure: average annual pay for private manufacturing jobs in Dawson County, 2024, $54,247 ($1,043 a week), computed from the four QCEW quarters already pulled (total wages divided by average monthly jobs). 2024 chosen as the last full year before the closure was announced; 2025 Q4 pay jumped after the announcement. The plant was about 80% of county manufacturing jobs (3,212 of about 3,925, editorial calculation). The UNL modeled figure is left out. Kept in the limits section, not the body, at Eric's choice.
 - 2026-10-14 Step 2b opened. Eric's edits are complete (among them: closing point 1 now ends on whether there are enough working-age people; "completed" changed to "continued"). Claude's look-over sent as a numbered list; none applied.
 - 2026-10-14 Step 2b: Eric accepted look-over items 1 to 9; applied (cattle link now quotes Tyson's February 2026 investor call, the August 2026 quote moved to the Joslin sentence, AP claim linked, intro and closing wording). Publish time set to October 14, 2026, 6:45 a.m. EDT (time: 06:45:00-04:00). The closing's "Yesterday morning" holds only for an October 14 publish.
+- 2026-10-14 Step 2b confirmed by Eric. Next: 2c, slice markup.
