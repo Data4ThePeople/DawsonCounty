@@ -91,6 +91,13 @@ check("food manufacturing jobs March 2026", jobs(2026, 1, "5", "311", 3), 217)
 WARN = 3212   # positions in the WARN notice, a reported figure, not from BLS
 check("WARN positions as % of all jobs, March 2025 (editorial)", round(100 * WARN / all25, 1), 27.1)
 check("WARN positions as % of private jobs, March 2025 (editorial)", round(100 * WARN / pr25, 1), 34.0)
+
+# average annual pay, private manufacturing, 2024: total wages over average monthly jobs
+mq = [r for r in q if r["year"] == "2024" and r["own_code"] == "5" and r["industry_code"] == "31-33"]
+mpay = sum(int(r["total_quarterly_wages"]) for r in mq) / (sum(int(r[f"month{m}_jobs"]) for r in mq for m in (1, 2, 3)) / 12)
+check("manufacturing quarters in 2024", len(mq), 4)
+check("manufacturing average pay 2024, $ a year", round(mpay), 54247)
+check("manufacturing average pay 2024, $ a week", round(mpay / 52), 1043)
 note("food manufacturing quarters withheld", f"{sum(1 for r in q if r['industry_code'] == '311' and r['flag'])} of "
                                              f"{sum(1 for r in q if r['industry_code'] == '311')}")
 
