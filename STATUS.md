@@ -6,7 +6,7 @@ Process: ~/.claude/d4tp-process/PROCESS.md
 ## Current
 
 Post: lexington-tyson-plant-closure
-Step: 2f
+Step: 2g
 Since: 2026-10-14
 
 ## Steps
@@ -19,7 +19,7 @@ Since: 2026-10-14
 | 2c | Slice markup | 2026-10-14 | Defaults; divider dots above the closing and above the limits; spacer and GitHub blurb at the end |
 | 2d | Hero 1680x1080 + alt text | 2026-10-14 | Lexington water tower photo, Tony Webster, CC BY 2.0, credited at the end of the post |
 | 2e | SEO | 2026-10-14 | Meta title, description, 8 keywords; Article schema, section Research |
-| 2f | Pushed to Prismic (draft) | | |
+| 2f | Pushed to Prismic (draft) | 2026-10-14 | Draft as9W-RcAADEAEMN8 in the Migration Release; section Research |
 | 2g | Mailchimp teaser | | |
 
 ## Stale
@@ -148,3 +148,5 @@ None.
 - 2026-10-14 Re-pushed at Eric's request; draft as9W-RcAADEAEMN8 updated in the Migration Release.
 - 2026-10-14 20px spacer added between the GitHub blurb and the photo credit at Eric's direction; re-pushed to the same draft.
 - 2026-10-14 Section changed from Data 4 Thought to Research at Eric's direction (schema articleSection); re-pushed to the same draft.
+- 2026-10-14 Step 2f confirmed by Eric. Step 2g opened: Eric wants his intro verbatim as the email body, no charts, then the link to the report.
+- 2026-10-14 Step 2g: EMAIL.md drafted. Eric's intro verbatim (links kept as plain words, with a note to link Rentals Within Reach in Mailchimp), no chart, link to the report. Hero email JPG exported (175KB). Photo credit line included for the CC BY 2.0 license.
