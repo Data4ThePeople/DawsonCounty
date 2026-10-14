@@ -21,7 +21,7 @@ dividers: false
 
 Last week, we released our [Rentals Within Reach](https://www.data4thepeople.com/p/rentals-within-reach) data visualization, which compared the median renter income to the rental stock for all U.S. counties. At the time, we said we would come back to this work several times with stories that we believe must be told. A visualization is just data. But it allows us to find stories that are needles in a haystack – very real stories of U.S. communities. We must do this work because the story is what makes this stick.
 
-So today, we tell the story of Dawson County, Nebraska.
+So today, we tell the story of Dawson County, Nebraska, home of Lexington.
 
 Why Dawson County? Because in the 2020-2024 ACS 5-year census data (the most recent data we could use in Rentals Within Reach), Dawson County had the second-best rental affordability (90% of all units within reach at the median renter income) of all counties in the country with more than 1,000 rental units and reliable income data. The top county? Greenlee County, Arizona, home to a Freeport-McMoRan copper mine.
 

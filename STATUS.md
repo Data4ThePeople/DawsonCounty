@@ -144,3 +144,4 @@ None.
 - 2026-10-14 Step 2e confirmed by Eric. Step 2f opened.
 - 2026-10-14 Step 2f: dry run clean (45 slices, 8 charts and the hero to upload, creates blog_post uid lexington-tyson-plant-closure). The live push was blocked by Claude Code's auto-mode permission check; Eric to run it with the ! prefix.
 - 2026-10-14 Step 2f: Eric ran the push. All 8 charts and the hero uploaded; draft as9W-RcAADEAEMN8 created in the Migration Release (tags and author empty).
+- 2026-10-14 After the push, at Eric's direction: "home of Lexington" added to "So today, we tell the story of Dawson County, Nebraska." The draft needs a re-push, which updates the same document.
