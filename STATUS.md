@@ -151,3 +151,4 @@ None.
 - 2026-10-14 Step 2f confirmed by Eric. Step 2g opened: Eric wants his intro verbatim as the email body, no charts, then the link to the report.
 - 2026-10-14 Step 2g: EMAIL.md drafted. Eric's intro verbatim (links kept as plain words, with a note to link Rentals Within Reach in Mailchimp), no chart, link to the report. Hero email JPG exported (175KB). Photo credit line included for the CC BY 2.0 license.
 - 2026-10-14 Step 2g approved by Eric. Post lexington-tyson-plant-closure complete through 2g. Publishing in Prismic (tags, author, release) is Eric's.
+- 2026-10-14 SOCIAL.md drafted (X single, optional 4-post X thread, LinkedIn with first-comment link, alt text). Animated unemployment chart built by scripts/animate.py: posts/lexington-tyson-plant-closure/social/unemployment-rate.gif, 8 seconds drawing in and a 5-second hold on the published chart.
