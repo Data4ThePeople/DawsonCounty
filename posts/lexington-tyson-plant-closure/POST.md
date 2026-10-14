@@ -3,6 +3,7 @@ title: The Data Led Us to Lexington
 subtitle: Our rental affordability map pointed us to a county in Nebraska. A 1997 study had already told the first part of its story. We brought it up to date the year the beef plant closed.
 slug: lexington-tyson-plant-closure
 date: 2026-10-14
+time: 06:45:00-04:00
 section: Data 4 Thought
 hero: images/lexington-tyson-plant-closure-hero-1680x1080.png
 hero_alt:
@@ -22,7 +23,7 @@ Last week, we released our [Rentals Within Reach](https://www.data4thepeople.com
 
 So today, we tell the story of Dawson County, Nebraska.
 
-Why Dawson County? Because in the 2020-2024 ACS 5-year census data (the most recent data we could use in Rentals Within Reach) Dawson County had the second-best rental affordability (90% of all units within reach at the median renter income) of all counties in the country with more than 1,000 rental units and reliable income data. The top county? Greenlee County, Arizona, home to a Freeport-McMoRan copper mine.
+Why Dawson County? Because in the 2020-2024 ACS 5-year census data (the most recent data we could use in Rentals Within Reach), Dawson County had the second-best rental affordability (90% of all units within reach at the median renter income) of all counties in the country with more than 1,000 rental units and reliable income data. The top county? Greenlee County, Arizona, home to a Freeport-McMoRan copper mine.
 
 I was specifically looking across the list of most affordable counties because I am enamored with the idea of solutions data journalism. Can we use data tools to find favorable outliers, and then study why they are outliers? Maybe some of these counties have come up with ways to incentivize the build out of low-income housing? If we can find examples of this, maybe we can highlight what’s working for other areas to copy.
 
@@ -30,7 +31,7 @@ That was the intention behind today’s work. Greenlee County couldn’t be copi
 
 When I started to research Dawson County, I was hoping to find some evidence of any policies or incentives for low-income housing. I didn’t find that. But there are two sides to this equation. Higher incomes could make rentals more affordable, and I did find this. In the 2020-2024 ACS data, the median Dawson County renter household made $59,031, considerably higher than the $40,678 in Lincoln County due west. Maybe this was a story of a strong local employer who built roots in this community, boosting wages and standards of living.
 
-Dawson County, Nebraska was that story, and Tyson was that employer… until January 20, 2026, when Tyson shut the doors on their meatpacking facility, cutting about 3,200 jobs and sending the county into an economic spiral.
+Dawson County, Nebraska was that story, and Tyson was that employer… until January 20, 2026, when Tyson shut the doors on its meatpacking facility, cutting about 3,200 jobs and sending the county into an economic crisis.
 
 In other words, the good news story I was expecting from the data ending in 2024 turned into a nightmare in 2026.
 
@@ -94,7 +95,7 @@ The chart below compares the town with the county, the state and the country on 
 ![Three sets of horizontal bars titled "Before the closure, Lexington looked little like the rest of Nebraska." Born outside the U.S.: Lexington 42%, Dawson County 23%, Nebraska 8%, United States 14%. Speak a language other than English at home: Lexington 69%, Dawson County 37%, Nebraska 13%, United States 22%. Workers employed in manufacturing: Lexington 43%, Dawson County 26%, Nebraska 10%, United States 10%.](images/03-before-the-closure.png)
 *Survey estimates for 2020 to 2024. Lexington's shares are within about 4 to 6 points either way. Source: U.S. Census Bureau, American Community Survey.*
 
-About 57% of Lexington households owned their home. The median renter household in Dawson County made $59,031, the number that put the county near the top of our map. School officials told the Associated Press that nearly half of Lexington's students had a parent who worked at the plant.
+About 57% of Lexington households owned their home. The median renter household in Dawson County made $59,031, the number that put the county near the top of our map. School officials [told the Associated Press](https://www.yahoo.com/news/articles/takeaways-aps-report-beef-plant-175753906.html) that nearly half of Lexington's students had a parent who worked at the plant.
 
 The plant's 3,212 positions were equal to about 27% of all the jobs located in Dawson County in March 2025. That share is our own calculation, from the [layoff notice Tyson filed](https://dol.nebraska.gov/webdocs/getfile/a16e7080-54f1-43f4-bbd7-f9011a5f3453) and a federal count of jobs.
 
@@ -109,14 +110,14 @@ Tyson's own financial reports show a beef business that had been losing money. T
 ![Horizontal bar chart titled "Tyson's beef business went from a $3.2 billion profit in 2021 to a $1.1 billion loss in 2025." Beef segment operating income by fiscal year: $1,107 million in 2019, $1,580 million in 2020, $3,240 million in 2021, $2,502 million in 2022, a loss of $91 million in 2023, a loss of $381 million in 2024 and a loss of $1,135 million in 2025. Losses are drawn as bars to the left.](images/04-tyson-beef-segment.png)
 *The fiscal 2025 loss includes legal costs and write-offs. Without them, Tyson puts the loss at $426 million. The figures cover every Tyson beef plant, not Lexington alone. Source: Tyson Foods earnings releases filed with the SEC.*
 
-Tyson later tied the closure to the supply of cattle. In an August 2026 release it cited "one of the most historic cattle shortages the country has ever experienced." The chart below, from U.S. Department of Agriculture data, has the size of the U.S. cattle herd on the left and the price paid for cattle on the right.
+Tyson later tied the closure to the supply of cattle. On a [February 2026 call with investors](https://www.fool.com/earnings/call-transcripts/2026/02/02/tyson-foods-tsn-q1-2026-earnings-call-transcript/), an executive said the Lexington closure and a shift cut at its Amarillo, Texas, plant were "in response to the ongoing challenges of a tighter U.S. cattle supply." The chart below, from U.S. Department of Agriculture data, has the size of the U.S. cattle herd on the left and the price paid for cattle on the right.
 
 ![Two line charts titled "The U.S. cattle herd is the smallest since 1951, and cattle prices rose 86% in six years." Left: all cattle and calves in the U.S. on January 1 peaked at 132.0 million in 1975 and stood at 86.2 million in 2026. Right: the price paid to producers for steers and heifers was $125 per 100 pounds in January 2020, $233 in January 2026 and $258 in June 2026. Tyson's fiscal years 2024 and 2025 are shaded.](images/05-cattle-herd-and-prices.png)
 *Prices are not adjusted for inflation. Source: USDA National Agricultural Statistics Service.*
 
 A beef plant buys cattle and sells beef. This chart shows only the buying side, so it does not explain Tyson's losses. It does show that the kind of cattle beef plants buy cost 86% more in January 2026, the month the plant closed, than six years earlier.
 
-In August 2026 Tyson said it would also end operations at its beef plant in Joslin, Illinois.
+In August 2026 Tyson said it would also end operations at its beef plant in Joslin, Illinois, citing "one of the most historic cattle shortages the country has ever experienced."
 
 ## What happened next
 
@@ -149,12 +150,12 @@ That is the story of Dawson County.
 
 Rather than belabor the obvious, here are two points in brief:
 
-1. This county is a case study on the reality of economic development in rural America. We can provide all the tax incentives and grants we want to employers to come to rural counties ([JobsOhio](https://www.data4thepeople.com/p/jobsohio-post) – pay attention here) but if the goal is to employ more people, we must study these counties to understand if there are even enough working age bodies to support this new employer.
-2. How much concentration risk there may be underneath “healthy” rural economic data, especially in counties with a lot of manufacturing jobs.
+1. This county is a case study of the reality of economic development in rural America. We can provide all the tax incentives and grants we want to employers to come to rural counties ([JobsOhio](https://www.data4thepeople.com/p/jobsohio-post) – pay attention here), but if the goal is to employ more people, we must study these counties to understand if there are even enough working-age people to support a new employer.
+2. “Healthy” rural economic data can hide how much a county depends on one employer, especially in counties with a lot of manufacturing jobs.
 
-Instead of hammering these two points, I want to close this with another call out to the 1997 study by Lourdes Gouveia and Donald Stull that was the basis for much of the history in the story you just read.
+Instead of hammering these two points, I want to close this with another callout to the 1997 study by Lourdes Gouveia and Donald Stull that was the basis for much of the history in the story you just read.
 
-Without this amazing work, there is no connective tissue to this story. And I just got lucky. I had no idea this work existed. Yesterday morning, I had no clue that the Dawson County story was a story about immigration. And try googling for what we know from the Rentals Within Reach visualization – searches on higher incomes, better rental affordability, and the Tyson meatpacking plant did not turn up Gouveia’s research.
+Without this amazing work, there is no connective tissue to this story. And I just got lucky. I had no idea this work existed. Yesterday morning, I had no clue that the Dawson County story was a story about immigration. Searches on what we knew from the Rentals Within Reach visualization – higher incomes, better rental affordability, and the Tyson meatpacking plant – did not turn up Gouveia and Stull’s research.
 
 But our agentic AI process found it. Not only did it find it, but it also stressed that this was the linchpin in telling the Dawson County story. I read the report and just sat thinking – how much brilliant research is out there on our communities that can now be unearthed, and in this case, continued?
 
