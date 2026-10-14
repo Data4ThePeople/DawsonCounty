@@ -166,6 +166,6 @@ So, to the journalists out there who are wary of AI: sit with this question. Is 
 - **Why Tyson chose Lexington.** Tyson has not said. Its financial reports cover all of its beef plants together.
 - **Why local workers did not fill the jobs in 1990.** The 1997 study measured who was hired, not who turned the work down.
 - **How well the 66 interviews stand for everyone.** The researchers found people through a shelter, social gatherings and referrals, not at random.
-- **What plant workers were paid.** We found no wage figure from Tyson. The renter income in our map covers all renters in the county.
+- **What plant workers were paid.** Tyson has not published a wage figure. The closest public measure is average pay for manufacturing jobs in Dawson County, most of which were at the plant: about $54,200 a year in 2024, or about $1,040 a week, according to the U.S. Bureau of Labor Statistics. That average includes every manufacturer in the county and every kind of worker, from the line to management. The renter income in our map covers all renters in the county.
 - **The exact unemployment rate.** County rates are built from a model and get revised each spring. After a shock this large, the revision could be big.
 - **Workers who lived outside the county.** They are in the count of jobs lost, but not in the county's unemployment figures.
