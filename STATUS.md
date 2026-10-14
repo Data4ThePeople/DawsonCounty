@@ -6,7 +6,7 @@ Process: ~/.claude/d4tp-process/PROCESS.md
 ## Current
 
 Post: lexington-tyson-plant-closure
-Step: 2b
+Step: 2c
 Since: 2026-10-14
 
 ## Steps
@@ -135,3 +135,4 @@ None.
 - 2026-10-14 Step 2b opened. Eric's edits are complete (among them: closing point 1 now ends on whether there are enough working-age people; "completed" changed to "continued"). Claude's look-over sent as a numbered list; none applied.
 - 2026-10-14 Step 2b: Eric accepted look-over items 1 to 9; applied (cattle link now quotes Tyson's February 2026 investor call, the August 2026 quote moved to the Joslin sentence, AP claim linked, intro and closing wording). Publish time set to October 14, 2026, 6:45 a.m. EDT (time: 06:45:00-04:00). The closing's "Yesterday morning" holds only for an October 14 publish.
 - 2026-10-14 Step 2b confirmed by Eric. Next: 2c, slice markup.
+- 2026-10-14 Step 2c opened. Defaults kept (drop cap, 20px spacers before headings and after captions); no embeds, so no added spacers. One fence added: ::: divider above "How we found this story", where the article body ends. Convert-only run: 89 blocks, 8 images, all alt text under 500 characters; hero and hero_alt still missing (step 2d).
