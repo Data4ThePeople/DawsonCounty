@@ -3,6 +3,9 @@
   "page_subtitle": "Our rental affordability map pointed us to a county in Nebraska. A 1997 study had already told the first part of its story. We brought it up to date the year the beef plant closed.",
   "published_date": "2026-10-14",
   "updated_date": "2026-10-14",
+  "meta_title": "Lexington, Nebraska, After the Tyson Beef Plant Closed",
+  "meta_description": "A rental map led us to Dawson County, Nebraska. A 1997 study shows how a beef plant drew immigrants to Lexington. Tyson closed the plant in 2026.",
+  "meta_keywords": "Lexington Nebraska, Tyson Lexington plant closure, Dawson County Nebraska, meatpacking and immigration, IBP Lexington, rural economic development, labor force decline, Gouveia and Stull 1997 study",
   "make_this_main_post": false,
   "slices": [
     {
@@ -1313,5 +1316,5 @@
       }
     }
   ],
-  "schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Article\",\n  \"headline\": \"The Data Led Us to Lexington\",\n  \"description\": \"\",\n  \"datePublished\": \"2026-10-14T06:45:00-04:00\",\n  \"dateModified\": \"2026-10-14T06:45:00-04:00\",\n  \"articleSection\": \"Data 4 Thought\",\n  \"license\": \"https://www.data4thepeople.com/terms-of-use\",\n  \"inLanguage\": \"en-US\",\n  \"isAccessibleForFree\": true,\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Eric Pachman\",\n    \"url\": \"https://www.data4thepeople.com/authors/eric-pachman\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Data 4 The People\",\n    \"url\": \"https://data4thepeople.com\"\n  },\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://www.data4thepeople.com/p/lexington-tyson-plant-closure\"\n  }\n}"
+  "schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Article\",\n  \"headline\": \"The Data Led Us to Lexington\",\n  \"description\": \"A rental map led us to Dawson County, Nebraska. A 1997 study shows how a beef plant drew immigrants to Lexington. Tyson closed the plant in 2026.\",\n  \"datePublished\": \"2026-10-14T06:45:00-04:00\",\n  \"dateModified\": \"2026-10-14T06:45:00-04:00\",\n  \"articleSection\": \"Data 4 Thought\",\n  \"license\": \"https://www.data4thepeople.com/terms-of-use\",\n  \"inLanguage\": \"en-US\",\n  \"isAccessibleForFree\": true,\n  \"keywords\": [\n    \"Lexington Nebraska\",\n    \"Tyson Lexington plant closure\",\n    \"Dawson County Nebraska\",\n    \"meatpacking and immigration\",\n    \"IBP Lexington\",\n    \"rural economic development\",\n    \"labor force decline\",\n    \"Gouveia and Stull 1997 study\"\n  ],\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Eric Pachman\",\n    \"url\": \"https://www.data4thepeople.com/authors/eric-pachman\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Data 4 The People\",\n    \"url\": \"https://data4thepeople.com\"\n  },\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://www.data4thepeople.com/p/lexington-tyson-plant-closure\"\n  }\n}"
 }

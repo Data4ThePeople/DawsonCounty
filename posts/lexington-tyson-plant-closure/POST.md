@@ -7,9 +7,9 @@ time: 06:45:00-04:00
 section: Data 4 Thought
 hero: images/lexington-tyson-plant-closure-hero-1680x1080.png
 hero_alt: The Lexington, Nebraska, water tower against a clear blue sky. The cream-colored tank reads "Lexington" in black script with a small red apple in place of the last "o," and "Est. 1874" below. Antennas sit on the walkway around the tank. Photo by Tony Webster, 2018.
-meta_title:
-description:
-keywords:
+meta_title: Lexington, Nebraska, After the Tyson Beef Plant Closed
+description: A rental map led us to Dawson County, Nebraska. A 1997 study shows how a beef plant drew immigrants to Lexington. Tyson closed the plant in 2026.
+keywords: Lexington Nebraska, Tyson Lexington plant closure, Dawson County Nebraska, meatpacking and immigration, IBP Lexington, rural economic development, labor force decline, Gouveia and Stull 1997 study
 schema_type: article
 drop_cap: true
 heading_spacer: 20px
