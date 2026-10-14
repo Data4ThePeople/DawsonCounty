@@ -16,7 +16,7 @@ caption_spacer: 20px
 dividers: false
 ---
 
-# Title
+# The Data Led Us to Lexington
 
 Last week, we released our [Rentals Within Reach](https://www.data4thepeople.com/p/rentals-within-reach) data visualization, which compared the median renter income to the rental stock for all U.S. counties. At the time, we said we would come back to this work several times with stories that we believe must be told. A visualization is just data. But it allows us to find stories that are needles in a haystack – very real stories of U.S. communities. We must do this work because the story is what makes this stick.
 
