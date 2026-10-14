@@ -6,7 +6,7 @@ Process: ~/.claude/d4tp-process/PROCESS.md
 ## Current
 
 Post: lexington-tyson-plant-closure
-Step: 2e
+Step: 2f
 Since: 2026-10-14
 
 ## Steps
@@ -18,7 +18,7 @@ Since: 2026-10-14
 | 2b | Eric's edit, Claude's look-over | 2026-10-14 | Look-over items 1 to 9 accepted; publish time 6:45 a.m. EDT |
 | 2c | Slice markup | 2026-10-14 | Defaults; divider dots above the closing and above the limits; spacer and GitHub blurb at the end |
 | 2d | Hero 1680x1080 + alt text | 2026-10-14 | Lexington water tower photo, Tony Webster, CC BY 2.0, credited at the end of the post |
-| 2e | SEO | | |
+| 2e | SEO | 2026-10-14 | Meta title, description, 8 keywords; Article schema |
 | 2f | Pushed to Prismic (draft) | | |
 | 2g | Mailchimp teaser | | |
 
@@ -141,3 +141,5 @@ None.
 - 2026-10-14 Step 2c confirmed by Eric. Next: 2d, hero at 1680x1080.
 - 2026-10-14 Step 2d opened. Eric asked for a real, openly licensed photo of Lexington, the plant or the old combine factory. Wikimedia Commons has none of the plant or the factory under an open license. Hero is Tony Webster's 2018 photo of the Lexington water tower (CC BY 2.0, https://commons.wikimedia.org/wiki/File:City_of_Lexington,_Nebraska_-_Water_Tower_(46537540401).jpg), cropped to 1680x1080 from the center; source kept as images/lexington-tyson-plant-closure-hero-source.jpg. hero_alt written (265 characters). The license requires credit, so an italic credit line was added at the end of the post.
 - 2026-10-14 Step 2d confirmed by Eric. Step 2e opened. Eric gave no target searches given the 6:45 a.m. publish; Claude drafted meta title, description and eight keywords into the front matter for his review. Schema: Article, Data 4 Thought, house conventions. Earlier posts already linked in the body: Rentals Within Reach, The Men Who Vanished, JobsOhio, labor force decline.
+- 2026-10-14 Step 2e confirmed by Eric. Step 2f opened.
+- 2026-10-14 Step 2f: dry run clean (45 slices, 8 charts and the hero to upload, creates blog_post uid lexington-tyson-plant-closure). The live push was blocked by Claude Code's auto-mode permission check; Eric to run it with the ! prefix.
