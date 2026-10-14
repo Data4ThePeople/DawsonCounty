@@ -146,3 +146,4 @@ None.
 - 2026-10-14 Step 2f: Eric ran the push. All 8 charts and the hero uploaded; draft as9W-RcAADEAEMN8 created in the Migration Release (tags and author empty).
 - 2026-10-14 After the push, at Eric's direction: "home of Lexington" added to "So today, we tell the story of Dawson County, Nebraska." The draft needs a re-push, which updates the same document.
 - 2026-10-14 Re-pushed at Eric's request; draft as9W-RcAADEAEMN8 updated in the Migration Release.
+- 2026-10-14 20px spacer added between the GitHub blurb and the photo credit at Eric's direction; re-pushed to the same draft.

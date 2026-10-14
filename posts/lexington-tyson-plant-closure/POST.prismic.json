@@ -46,7 +46,7 @@
         "paragraph_text": [
           {
             "type": "paragraph",
-            "text": "So today, we tell the story of Dawson County, Nebraska.",
+            "text": "So today, we tell the story of Dawson County, Nebraska, home of Lexington.",
             "spans": [],
             "direction": "ltr"
           },
@@ -429,8 +429,13 @@
       "items": [],
       "primary": {
         "image": {
+          "id": "zrGQMOGYh1PU_AvC",
           "alt": "Line chart titled \"Lexington's population grew 52% between the 1990 and 2000 censuses.\" Dawson County had 17,890 residents in 1940, 22,304 in 1980, 19,940 in 1990, 24,365 in 2000 and 24,111 in 2020. Lexington had 5,654 in 1970, 7,040 in 1980, 6,601 in 1990, 10,011 in 2000, 10,230 in 2010 and 10,348 in 2020. Dashed lines mark 1985, when the combine plant closed, and 1990, when the beef plant opened.",
-          "copyright": null
+          "copyright": null,
+          "dimensions": {
+            "width": 1600,
+            "height": 992
+          }
         },
         "source_text": [
           {
@@ -483,8 +488,13 @@
       "items": [],
       "primary": {
         "image": {
+          "id": "KXf-CRae2CgEJg7V",
           "alt": "Line chart titled \"Lexington was 5% Hispanic before the beef plant opened and 51% ten years later.\" The share of Lexington residents of Hispanic or Latino origin was 5% in the April 1990 census (329 of 6,601), 51% in 2000 (5,121 of 10,011), 60% in 2010 (6,183 of 10,230) and 65% in 2020 (6,752 of 10,348). A dashed line marks November 1990, when the beef plant opened.",
-          "copyright": null
+          "copyright": null,
+          "dimensions": {
+            "width": 1600,
+            "height": 992
+          }
         },
         "source_text": [
           {
@@ -549,8 +559,13 @@
       "items": [],
       "primary": {
         "image": {
+          "id": "dW45TkF0_pmlImfv",
           "alt": "Three sets of horizontal bars titled \"Before the closure, Lexington looked little like the rest of Nebraska.\" Born outside the U.S.: Lexington 42%, Dawson County 23%, Nebraska 8%, United States 14%. Speak a language other than English at home: Lexington 69%, Dawson County 37%, Nebraska 13%, United States 22%. Workers employed in manufacturing: Lexington 43%, Dawson County 26%, Nebraska 10%, United States 10%.",
-          "copyright": null
+          "copyright": null,
+          "dimensions": {
+            "width": 1600,
+            "height": 896
+          }
         },
         "source_text": [
           {
@@ -698,8 +713,13 @@
       "items": [],
       "primary": {
         "image": {
+          "id": "zrzHuLkb3QWs6g-8",
           "alt": "Horizontal bar chart titled \"Tyson's beef business went from a $3.2 billion profit in 2021 to a $1.1 billion loss in 2025.\" Beef segment operating income by fiscal year: $1,107 million in 2019, $1,580 million in 2020, $3,240 million in 2021, $2,502 million in 2022, a loss of $91 million in 2023, a loss of $381 million in 2024 and a loss of $1,135 million in 2025. Losses are drawn as bars to the left.",
-          "copyright": null
+          "copyright": null,
+          "dimensions": {
+            "width": 1600,
+            "height": 992
+          }
         },
         "source_text": [
           {
@@ -763,8 +783,13 @@
       "items": [],
       "primary": {
         "image": {
+          "id": "qaPNev5Ah1WeAMCS",
           "alt": "Two line charts titled \"The U.S. cattle herd is the smallest since 1951, and cattle prices rose 86% in six years.\" Left: all cattle and calves in the U.S. on January 1 peaked at 132.0 million in 1975 and stood at 86.2 million in 2026. Right: the price paid to producers for steers and heifers was $125 per 100 pounds in January 2020, $233 in January 2026 and $258 in June 2026. Tyson's fiscal years 2024 and 2025 are shaded.",
-          "copyright": null
+          "copyright": null,
+          "dimensions": {
+            "width": 1600,
+            "height": 1088
+          }
         },
         "source_text": [
           {
@@ -873,8 +898,13 @@
       "items": [],
       "primary": {
         "image": {
+          "id": "XjF5up99ssGBFUI1",
           "alt": "Line chart titled \"Dawson County had 3,997 manufacturing jobs in March 2025 and 677 a year later.\" All jobs located in Dawson County went from 11,868 in March 2025 to 8,121 in March 2026. Private jobs went from 9,444 to 5,673. Manufacturing jobs went from 3,997 to 677. All three lines are nearly flat from 2014 through 2025 and then drop sharply.",
-          "copyright": null
+          "copyright": null,
+          "dimensions": {
+            "width": 1600,
+            "height": 992
+          }
         },
         "source_text": [
           {
@@ -927,8 +957,13 @@
       "items": [],
       "primary": {
         "image": {
+          "id": "UQ1igjxrzsEP8i55",
           "alt": "Line chart titled \"Dawson County's unemployment rate went from 3.4% to 16.9% in one month.\" The county's rate tracked Nebraska's near 3% through January 2026, jumped to 16.9% in February, peaked at 20.1% in March and was 16.4% in August 2026. Nebraska was 2.8% and the United States 4.3% in August 2026. October 2025 is blank for all three.",
-          "copyright": null
+          "copyright": null,
+          "dimensions": {
+            "width": 1600,
+            "height": 992
+          }
         },
         "source_text": [
           {
@@ -981,8 +1016,13 @@
       "items": [],
       "primary": {
         "image": {
+          "id": "t5Xgpd9PCBijZlTB",
           "alt": "Line chart titled \"Dawson County has 25% fewer employed residents than a year ago.\" Employed residents of Dawson County fell from 13,292 in August 2025 to 9,941 in August 2026. The labor force fell from 13,658 to 11,897. Both lines drop sharply after the plant closed on January 20, 2026.",
-          "copyright": null
+          "copyright": null,
+          "dimensions": {
+            "width": 1600,
+            "height": 992
+          }
         },
         "source_text": [
           {
@@ -1293,6 +1333,16 @@
       }
     },
     {
+      "slice_type": "spacer",
+      "slice_label": null,
+      "variation": "default",
+      "version": "initial",
+      "items": [],
+      "primary": {
+        "spacer_value": "20px"
+      }
+    },
+    {
       "slice_type": "paragarph_text",
       "slice_label": null,
       "variation": "default",
@@ -1316,5 +1366,23 @@
       }
     }
   ],
-  "schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Article\",\n  \"headline\": \"The Data Led Us to Lexington\",\n  \"description\": \"A rental map led us to Dawson County, Nebraska. A 1997 study shows how a beef plant drew immigrants to Lexington. Tyson closed the plant in 2026.\",\n  \"datePublished\": \"2026-10-14T06:45:00-04:00\",\n  \"dateModified\": \"2026-10-14T06:45:00-04:00\",\n  \"articleSection\": \"Data 4 Thought\",\n  \"license\": \"https://www.data4thepeople.com/terms-of-use\",\n  \"inLanguage\": \"en-US\",\n  \"isAccessibleForFree\": true,\n  \"keywords\": [\n    \"Lexington Nebraska\",\n    \"Tyson Lexington plant closure\",\n    \"Dawson County Nebraska\",\n    \"meatpacking and immigration\",\n    \"IBP Lexington\",\n    \"rural economic development\",\n    \"labor force decline\",\n    \"Gouveia and Stull 1997 study\"\n  ],\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Eric Pachman\",\n    \"url\": \"https://www.data4thepeople.com/authors/eric-pachman\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Data 4 The People\",\n    \"url\": \"https://data4thepeople.com\"\n  },\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://www.data4thepeople.com/p/lexington-tyson-plant-closure\"\n  }\n}"
+  "featured_image": {
+    "id": "cmFEqJwz8tsCNfG6",
+    "alt": "The Lexington, Nebraska, water tower against a clear blue sky. The cream-colored tank reads \"Lexington\" in black script with a small red apple in place of the last \"o,\" and \"Est. 1874\" below. Antennas sit on the walkway around the tank. Photo by Tony Webster, 2018.",
+    "copyright": null,
+    "dimensions": {
+      "width": 1680,
+      "height": 1080
+    }
+  },
+  "meta_image": {
+    "id": "cmFEqJwz8tsCNfG6",
+    "alt": "The Lexington, Nebraska, water tower against a clear blue sky. The cream-colored tank reads \"Lexington\" in black script with a small red apple in place of the last \"o,\" and \"Est. 1874\" below. Antennas sit on the walkway around the tank. Photo by Tony Webster, 2018.",
+    "copyright": null,
+    "dimensions": {
+      "width": 1680,
+      "height": 1080
+    }
+  },
+  "schema": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Article\",\n  \"headline\": \"The Data Led Us to Lexington\",\n  \"description\": \"A rental map led us to Dawson County, Nebraska. A 1997 study shows how a beef plant drew immigrants to Lexington. Tyson closed the plant in 2026.\",\n  \"image\": \"https://images.prismic.io/data4thepeople/cmFEqJwz8tsCNfG6_lexington-tyson-plant-closure-hero-1680x1080.png?auto=format,compress\",\n  \"datePublished\": \"2026-10-14T06:45:00-04:00\",\n  \"dateModified\": \"2026-10-14T06:45:00-04:00\",\n  \"articleSection\": \"Data 4 Thought\",\n  \"license\": \"https://www.data4thepeople.com/terms-of-use\",\n  \"inLanguage\": \"en-US\",\n  \"isAccessibleForFree\": true,\n  \"keywords\": [\n    \"Lexington Nebraska\",\n    \"Tyson Lexington plant closure\",\n    \"Dawson County Nebraska\",\n    \"meatpacking and immigration\",\n    \"IBP Lexington\",\n    \"rural economic development\",\n    \"labor force decline\",\n    \"Gouveia and Stull 1997 study\"\n  ],\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Eric Pachman\",\n    \"url\": \"https://www.data4thepeople.com/authors/eric-pachman\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Data 4 The People\",\n    \"url\": \"https://data4thepeople.com\"\n  },\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://www.data4thepeople.com/p/lexington-tyson-plant-closure\"\n  }\n}"
 }
