@@ -9,7 +9,16 @@ import urllib.request
 from pathlib import Path
 
 sys.path.insert(0, os.path.expanduser("~/.claude/d4tp-process"))
-from d4tp_env import get_key, load_env  # noqa: E402
+try:
+    from d4tp_env import get_key, load_env  # noqa: E402
+except ImportError:  # outside Data 4 The People's machines, keys come from the environment
+    def load_env(*args, **kwargs):
+        pass
+
+    def get_key(name):
+        if not os.environ.get(name):
+            sys.exit(f"Set {name} in the environment.")
+        return os.environ[name]
 
 ROOT = Path(__file__).resolve().parent.parent
 RAW = ROOT / "data" / "raw"
