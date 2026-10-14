@@ -6,7 +6,7 @@ date: 2026-10-14
 time: 06:45:00-04:00
 section: Data 4 Thought
 hero: images/lexington-tyson-plant-closure-hero-1680x1080.png
-hero_alt:
+hero_alt: The Lexington, Nebraska, water tower against a clear blue sky. The cream-colored tank reads "Lexington" in black script with a small red apple in place of the last "o," and "Est. 1874" below. Antennas sit on the walkway around the tank. Photo by Tony Webster, 2018.
 meta_title:
 description:
 keywords:
@@ -180,3 +180,5 @@ So, to the journalists out there who are wary of AI: sit with this question. Is 
 ::: blurb
 The data, code and charts behind this story are on [GitHub](https://github.com/Data4ThePeople/DawsonCounty).
 :::
+
+*Top photo: the Lexington water tower, by [Tony Webster](https://commons.wikimedia.org/wiki/File:City_of_Lexington,_Nebraska_-_Water_Tower_(46537540401).jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*

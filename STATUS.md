@@ -6,7 +6,7 @@ Process: ~/.claude/d4tp-process/PROCESS.md
 ## Current
 
 Post: lexington-tyson-plant-closure
-Step: 2c
+Step: 2d
 Since: 2026-10-14
 
 ## Steps
@@ -139,3 +139,4 @@ None.
 - 2026-10-14 Step 2c: at Eric's direction, divider dots also above "What this does not tell you", then a 20px spacer and a no-title blurb after the limits linking to the GitHub repo (https://github.com/Data4ThePeople/DawsonCounty). The repo is private, so the link will not open for readers until Eric makes it public.
 - 2026-10-14 README.md added for readers who follow the GitHub link. scripts/common.py now falls back to environment variables when the central key helper is not present, so the scripts run outside this machine; tie-out still 0 mismatches. Repo made public at Eric's direction.
 - 2026-10-14 Step 2c confirmed by Eric. Next: 2d, hero at 1680x1080.
+- 2026-10-14 Step 2d opened. Eric asked for a real, openly licensed photo of Lexington, the plant or the old combine factory. Wikimedia Commons has none of the plant or the factory under an open license. Hero is Tony Webster's 2018 photo of the Lexington water tower (CC BY 2.0, https://commons.wikimedia.org/wiki/File:City_of_Lexington,_Nebraska_-_Water_Tower_(46537540401).jpg), cropped to 1680x1080 from the center; source kept as images/lexington-tyson-plant-closure-hero-source.jpg. hero_alt written (265 characters). The license requires credit, so an italic credit line was added at the end of the post.
