@@ -14,7 +14,7 @@ Since: 2026-10-13
 | Step | What | Confirmed | Notes |
 |---|---|---|---|
 | 1  | Exploration and analysis | 2026-10-13 | Eight charts; Claude's tie-out clean; independent tie-out by a fresh agent done on charts 01 to 07; source check of reported facts done |
-| 2a | Draft with brackets resolved | | |
+| 2a | Draft with brackets resolved | 2026-10-14 | Eric's intro and closing; body built on the six-step sequence at his direction; title, subtitle and closing header set |
 | 2b | Eric's edit, Claude's look-over | | |
 | 2c | Slice markup | | |
 | 2d | Hero 1680x1080 + alt text | | |
@@ -126,3 +126,4 @@ None.
 - 2026-10-14 Step 2a: subtitle's last sentence changed to "We brought it up to date the year the beef plant closed." at Eric's direction.
 - 2026-10-14 Step 2a: at Eric's direction the closing now comes before "What this does not tell you", so the limits section ends the post.
 - 2026-10-14 Step 2a: closing given the header "How we found this story" (Eric's choice).
+- 2026-10-14 Step 2a confirmed by Eric. Next: 2b, Eric's edit and Claude's look-over.
