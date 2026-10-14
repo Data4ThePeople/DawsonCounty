@@ -122,3 +122,4 @@ None.
 - 2026-10-13 Step 2a: Greenlee County now described as "home to a Freeport-McMoRan copper mine" (Eric accepted).
 - 2026-10-14 Step 2a: Eric's closing placed verbatim in POST.md. Proposed edits sent as a numbered list; none applied. Still waiting on title and subtitle.
 - 2026-10-14 Step 2a: Eric accepted closing edits 1 to 7; applied. JobsOhio aside kept at his direction and linked to his earlier post, https://www.data4thepeople.com/p/jobsohio-post. Waiting on title and subtitle.
+- 2026-10-14 Step 2a: title and subtitle set at Eric's choice. Title: "The Data Led Us to Lexington." Subtitle: "Our rental affordability map pointed us to a county in Nebraska. A 1997 study had already told the first part of its story. We picked it back up the year the beef plant closed."
