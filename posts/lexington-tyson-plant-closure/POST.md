@@ -143,6 +143,8 @@ Lexington's school enrollment fell from 3,172 to 2,877 this fall, a drop of 9.3%
 
 In April the city council authorized a deal to take over Tyson's wastewater plant and nearby farmland. As of October 1, the plant itself still sat empty.
 
+## How we found this story
+
 That is the story of Dawson County.
 
 Rather than belabor the obvious, here are two points in brief:

@@ -125,3 +125,4 @@ None.
 - 2026-10-14 Step 2a: title and subtitle set at Eric's choice. Title: "The Data Led Us to Lexington." Subtitle: "Our rental affordability map pointed us to a county in Nebraska. A 1997 study had already told the first part of its story. We picked it back up the year the beef plant closed."
 - 2026-10-14 Step 2a: subtitle's last sentence changed to "We brought it up to date the year the beef plant closed." at Eric's direction.
 - 2026-10-14 Step 2a: at Eric's direction the closing now comes before "What this does not tell you", so the limits section ends the post.
+- 2026-10-14 Step 2a: closing given the header "How we found this story" (Eric's choice).
