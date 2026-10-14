@@ -16,7 +16,7 @@ Since: 2026-10-14
 | 1  | Exploration and analysis | 2026-10-13 | Eight charts; Claude's tie-out clean; independent tie-out by a fresh agent done on charts 01 to 07; source check of reported facts done |
 | 2a | Draft with brackets resolved | 2026-10-14 | Eric's intro and closing; body built on the six-step sequence at his direction; title, subtitle and closing header set |
 | 2b | Eric's edit, Claude's look-over | 2026-10-14 | Look-over items 1 to 9 accepted; publish time 6:45 a.m. EDT |
-| 2c | Slice markup | | |
+| 2c | Slice markup | 2026-10-14 | Defaults; divider dots above the closing and above the limits; spacer and GitHub blurb at the end |
 | 2d | Hero 1680x1080 + alt text | | |
 | 2e | SEO | | |
 | 2f | Pushed to Prismic (draft) | | |
@@ -138,3 +138,4 @@ None.
 - 2026-10-14 Step 2c opened. Defaults kept (drop cap, 20px spacers before headings and after captions); no embeds, so no added spacers. One fence added: ::: divider above "How we found this story", where the article body ends. Convert-only run: 89 blocks, 8 images, all alt text under 500 characters; hero and hero_alt still missing (step 2d).
 - 2026-10-14 Step 2c: at Eric's direction, divider dots also above "What this does not tell you", then a 20px spacer and a no-title blurb after the limits linking to the GitHub repo (https://github.com/Data4ThePeople/DawsonCounty). The repo is private, so the link will not open for readers until Eric makes it public.
 - 2026-10-14 README.md added for readers who follow the GitHub link. scripts/common.py now falls back to environment variables when the central key helper is not present, so the scripts run outside this machine; tie-out still 0 mismatches. Repo made public at Eric's direction.
+- 2026-10-14 Step 2c confirmed by Eric. Next: 2d, hero at 1680x1080.
