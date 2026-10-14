@@ -120,3 +120,4 @@ None.
 - 2026-10-13 Step 2a: Eric accepted all 4 trims to his intro; applied to POST.md. Waiting on his title, subtitle and closing.
 - 2026-10-13 Step 2a: "with loads of subsidized housing" removed from the Greenlee County sentence at Eric's direction.
 - 2026-10-13 Step 2a: Greenlee County now described as "home to a Freeport-McMoRan copper mine" (Eric accepted).
+- 2026-10-14 Step 2a: Eric's closing placed verbatim in POST.md. Proposed edits sent as a numbered list; none applied. Still waiting on title and subtitle.
