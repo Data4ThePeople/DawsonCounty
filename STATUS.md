@@ -18,7 +18,7 @@ Since: 2026-10-14
 | 2b | Eric's edit, Claude's look-over | 2026-10-14 | Look-over items 1 to 9 accepted; publish time 6:45 a.m. EDT |
 | 2c | Slice markup | 2026-10-14 | Defaults; divider dots above the closing and above the limits; spacer and GitHub blurb at the end |
 | 2d | Hero 1680x1080 + alt text | 2026-10-14 | Lexington water tower photo, Tony Webster, CC BY 2.0, credited at the end of the post |
-| 2e | SEO | 2026-10-14 | Meta title, description, 8 keywords; Article schema |
+| 2e | SEO | 2026-10-14 | Meta title, description, 8 keywords; Article schema, section Research |
 | 2f | Pushed to Prismic (draft) | | |
 | 2g | Mailchimp teaser | | |
 
@@ -147,3 +147,4 @@ None.
 - 2026-10-14 After the push, at Eric's direction: "home of Lexington" added to "So today, we tell the story of Dawson County, Nebraska." The draft needs a re-push, which updates the same document.
 - 2026-10-14 Re-pushed at Eric's request; draft as9W-RcAADEAEMN8 updated in the Migration Release.
 - 2026-10-14 20px spacer added between the GitHub blurb and the photo credit at Eric's direction; re-pushed to the same draft.
+- 2026-10-14 Section changed from Data 4 Thought to Research at Eric's direction (schema articleSection); re-pushed to the same draft.

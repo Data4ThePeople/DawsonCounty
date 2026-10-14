@@ -4,7 +4,7 @@ subtitle: Our rental affordability map pointed us to a county in Nebraska. A 199
 slug: lexington-tyson-plant-closure
 date: 2026-10-14
 time: 06:45:00-04:00
-section: Data 4 Thought
+section: Research
 hero: images/lexington-tyson-plant-closure-hero-1680x1080.png
 hero_alt: The Lexington, Nebraska, water tower against a clear blue sky. The cream-colored tank reads "Lexington" in black script with a small red apple in place of the last "o," and "Est. 1874" below. Antennas sit on the walkway around the tank. Photo by Tony Webster, 2018.
 meta_title: Lexington, Nebraska, After the Tyson Beef Plant Closed
