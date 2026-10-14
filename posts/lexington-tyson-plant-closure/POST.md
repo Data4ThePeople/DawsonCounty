@@ -143,16 +143,6 @@ Lexington's school enrollment fell from 3,172 to 2,877 this fall, a drop of 9.3%
 
 In April the city council authorized a deal to take over Tyson's wastewater plant and nearby farmland. As of October 1, the plant itself still sat empty.
 
-## What this does not tell you
-
-- **Where the workers went.** No public data yet shows who left Dawson County or where they went. The first Census Bureau population estimate that could show it is due in 2027.
-- **Why Tyson chose Lexington.** Tyson has not said. Its financial reports cover all of its beef plants together.
-- **Why local workers did not fill the jobs in 1990.** The 1997 study measured who was hired, not who turned the work down.
-- **How well the 66 interviews stand for everyone.** The researchers found people through a shelter, social gatherings and referrals, not at random.
-- **What plant workers were paid.** We found no wage figure from Tyson. The renter income in our map covers all renters in the county.
-- **The exact unemployment rate.** County rates are built from a model and get revised each spring. After a shock this large, the revision could be big.
-- **Workers who lived outside the county.** They are in the count of jobs lost, but not in the county's unemployment figures.
-
 That is the story of Dawson County.
 
 Rather than belabor the obvious, here are two points in brief:
@@ -167,3 +157,13 @@ Without this amazing work, there is no connective tissue to this story. And I ju
 But our agentic AI process found it. Not only did it find it, but it also stressed that this was the linchpin in telling the Dawson County story. I read the report and just sat thinking – how much brilliant research is out there on our communities that can now be unearthed, and in this case, completed?
 
 So, to the journalists out there who are wary of AI: sit with this question. Is AI really the enemy of journalism? Or maybe, could you be using it wrong?
+
+## What this does not tell you
+
+- **Where the workers went.** No public data yet shows who left Dawson County or where they went. The first Census Bureau population estimate that could show it is due in 2027.
+- **Why Tyson chose Lexington.** Tyson has not said. Its financial reports cover all of its beef plants together.
+- **Why local workers did not fill the jobs in 1990.** The 1997 study measured who was hired, not who turned the work down.
+- **How well the 66 interviews stand for everyone.** The researchers found people through a shelter, social gatherings and referrals, not at random.
+- **What plant workers were paid.** We found no wage figure from Tyson. The renter income in our map covers all renters in the county.
+- **The exact unemployment rate.** County rates are built from a model and get revised each spring. After a shock this large, the revision could be big.
+- **Workers who lived outside the county.** They are in the count of jobs lost, but not in the county's unemployment figures.
