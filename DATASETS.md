@@ -187,19 +187,6 @@ lived in other counties do not appear in Dawson County's figures at all.
 **License and attribution.** Public domain. Credit: U.S. Bureau of Labor
 Statistics, Local Area Unemployment Statistics.
 
-**Month-by-month cross-check (October 14, 2026, for chart 09 and its
-animation).** `scripts/06_crosscheck_laus.py` compares every month of the API
-pull with two other published copies: BLS's bulk file `la.data.34.Nebraska`
-(county rate, unemployed, employed and labor force, and the Nebraska rate) and
-FRED's copies of the same series (`NEDAWS7URN`, `NEURN`, `UNRATENSA`). It also
-checks that unemployed plus employed equals the labor force and that the rate
-equals unemployed over labor force, rounded. January 2016 to August 2026: 128
-months, 1,270 comparisons, 0 differences. Run from January 1990: 440 months,
-4,390 comparisons, 0 differences. The only blank month is October 2025, blank
-in every copy. This shows the three copies agree on the current vintage; it
-does not make the county figures more than model estimates, and the 2026
-months will still be revised in spring 2027.
-
 ## 5. Quarterly Census of Employment and Wages, QCEW (Bureau of Labor Statistics)
 
 **What it is.** Jobs and wages reported by employers on their unemployment

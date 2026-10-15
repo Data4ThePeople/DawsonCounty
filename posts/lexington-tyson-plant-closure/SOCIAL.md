@@ -5,17 +5,6 @@ Post URL: https://www.data4thepeople.com/p/lexington-tyson-plant-closure
 
 Animation: `social/unemployment-rate.gif`, the unemployment chart drawing in over 8 seconds and holding the finished chart for 5. The last frame is the published chart. Built by `scripts/animate.py`.
 
-## Ten-year animation (waiting on Eric)
-
-`social/unemployment-rate-since-2016.gif`: the same three lines from January 2016 to August 2026, drawing in over 10 seconds and holding for 5 on the static chart `charts/09-unemployment-rate-since-2016.png`. Every month was checked against BLS's bulk file and FRED (see `DATASETS.md`, section 4).
-
-It shows two numbers the post does not have: the county's pandemic peak (5.2%, May 2020) and the U.S. pandemic peak (14.4%, April 2020). Under the house rule, it waits until Eric either adds them to the post or approves using it as is. Either GIF can replace `social/unemployment-rate.gif` in the posts below.
-
-Alt text:
-```
-Animated line chart titled "Dawson County's unemployment rate peaked at 5.2% in 2020 and 20.1% in 2026." Monthly rates from January 2016 to August 2026 draw in for Dawson County, Nebraska and the United States. In the pandemic the U.S. rate peaked at 14.4% in April 2020 and the county's at 5.2% in May. The county then tracks Nebraska near 2% to 3% until the plant closes on January 20, 2026, and jumps to 16.9% in February, 20.1% in March and 16.4% in August.
-```
-
 ## X, single post (276 of 280 characters; X counts the link as 23)
 
 Image: `social/unemployment-rate.gif`.
